@@ -1,0 +1,317 @@
+{
+  "bellydrum": {
+    "atk": 6,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "bulkup": {
+    "atk": 1,
+    "def": 1,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "clangoroussoul": {
+    "atk": 1,
+    "def": 1,
+    "spa": 1,
+    "spd": 1,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "coil": {
+    "atk": 1,
+    "def": 1,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 1,
+    "evasion": 0
+  },
+  "dragondance": {
+    "atk": 1,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "extremeevoboost": {
+    "atk": 2,
+    "def": 2,
+    "spa": 2,
+    "spd": 2,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "clangoroussoulblaze": {
+    "atk": 1,
+    "def": 1,
+    "spa": 1,
+    "spd": 1,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "filletaway": {
+    "atk": 2,
+    "def": 0,
+    "spa": 2,
+    "spd": 0,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "honeclaws": {
+    "atk": 1,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 1,
+    "evasion": 0
+  },
+  "noretreat": {
+    "atk": 1,
+    "def": 1,
+    "spa": 1,
+    "spd": 1,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "shellsmash": {
+    "atk": 2,
+    "def": 1,
+    "spa": 2,
+    "spd": 1,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "shiftgear": {
+    "atk": 1,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "swordsdance": {
+    "atk": 2,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "tidyup": {
+    "atk": 1,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "victorydance": {
+    "atk": 1,
+    "def": 1,
+    "spa": 0,
+    "spd": 0,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "acidarmor": {
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "barrier": {
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "cottonguard": {
+    "atk": 0,
+    "def": 3,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "defensecurl": {
+    "atk": 0,
+    "def": 1,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "irondefense": {
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "shelter": {
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 1
+  },
+  "stockpile": {
+    "atk": 0,
+    "def": 1,
+    "spa": 0,
+    "spd": 1,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "stuffcheeks": {
+    "atk": 0,
+    "def": 2,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "amnesia": {
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 2,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "calmmind": {
+    "atk": 0,
+    "def": 0,
+    "spa": 1,
+    "spd": 1,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "geomancy": {
+    "atk": 0,
+    "def": 0,
+    "spa": 2,
+    "spd": 2,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "nastyplot": {
+    "atk": 0,
+    "def": 0,
+    "spa": 2,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "quiverdance": {
+    "atk": 0,
+    "def": 0,
+    "spa": 1,
+    "spd": 1,
+    "spe": 1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "tailglow": {
+    "atk": 0,
+    "def": 0,
+    "spa": 3,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "takeheart": {
+    "atk": 0,
+    "def": 0,
+    "spa": 1,
+    "spd": 1,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "agility": {
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "autotomize": {
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "rockpolish": {
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 2,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "curse": {
+    "atk": 1,
+    "def": 1,
+    "spa": 0,
+    "spd": 0,
+    "spe": -1,
+    "accuracy": 0,
+    "evasion": 0
+  },
+  "minimize": {
+    "atk": 0,
+    "def": 0,
+    "spa": 0,
+    "spd": 0,
+    "spe": 0,
+    "accuracy": 0,
+    "evasion": 2
+  }
+}

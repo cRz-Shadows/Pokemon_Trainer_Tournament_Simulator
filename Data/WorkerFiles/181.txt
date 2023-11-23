@@ -1,0 +1,54 @@
+Lycanroc
+Level: 65
+Hardy Nature
+Ability: Sand Rush
+- Accelerock
+- Drill Run
+- Stone Edge
+- Stealth Rock
+
+Goodra
+Level: 65
+Hardy Nature
+Ability: Sap Sipper
+- Dragon Pulse
+- Muddy Water
+- Ice Beam
+- Sludge Bomb
+
+Dudunsparce
+Level: 65
+Hardy Nature
+Ability: Serene Grace
+- Hyper Drill
+- Drill Run
+- Dragon Rush
+- Coil
+
+Orthworm
+Level: 65
+Hardy Nature
+Ability: Earth Eater
+- Iron Tail
+- Body Press
+- Earthquake
+- Rock Blast
+
+Pawmot
+Level: 65
+Hardy Nature
+Ability: Volt Absorb
+- Double Shock
+- Close Combat
+- Ice Punch
+- Quick Attack
+
+Meowscarada
+Level: 66
+Hardy Nature
+Ability: Overgrow
+- Flower Trick
+- Thunder Punch
+- Shadow Claw
+- Play Rough
+

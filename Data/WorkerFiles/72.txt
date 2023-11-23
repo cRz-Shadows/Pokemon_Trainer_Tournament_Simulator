@@ -1,0 +1,53 @@
+Dubwool
+Level: 69
+Hardy Nature
+Ability: Steadfast
+- Cotton Guard
+- Double Kick
+- Double-Edge
+- Headbutt
+
+Snorlax
+Level: 68
+Hardy Nature
+Ability: Thick Fat
+- Hammer Arm
+- Earthquake
+- Heavy Slam
+- Crunch
+
+Pincurchin
+Level: 68
+Hardy Nature
+Ability: Lightning Rod
+- Zing Zap
+- Poison Jab
+- Liquidation
+- Recover
+
+Corviknight
+Level: 69
+Hardy Nature
+Ability: Unnerve
+- Steel Wing
+- Drill Peck
+- Swagger
+- Light Screen
+
+Cinderace
+Level: 70
+Hardy Nature
+Ability: Blaze
+- Gunk Shot
+- Iron Head
+- Pyro Ball
+- Zen Headbutt
+
+Zamazenta-Crowned @ Rusted Shield
+Level: 70
+Hardy Nature
+Ability: Dauntless Shield
+- Crunch
+- Behemoth Bash
+- Psychic Fangs
+- Play Rough

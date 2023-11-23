@@ -1,0 +1,45 @@
+Perrserker
+Level: 74
+Hardy Nature
+Ability: Tough Claws
+- U-turn
+- Iron Head
+- Seed Bomb
+- Throat Chop
+
+Bronzong
+Level: 73
+Hardy Nature
+Ability: Heatproof
+- Extrasensory
+- Flash Cannon
+- Calm Mind
+- Shadow Ball
+
+Scizor
+Level: 73
+Hardy Nature
+Ability: Technician
+- X-Scissor
+- Bullet Punch
+- Wing Attack
+- Double Hit
+
+Aggron
+Level: 74
+Hardy Nature
+Ability: Sturdy
+- Body Press
+- Stone Edge
+- Crunch
+- Iron Head
+
+Copperajah
+Level: 74
+Hardy Nature
+Ability: Sheer Force
+- High Horsepower
+- Heavy Slam
+- Play Rough
+- Superpower
+

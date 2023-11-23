@@ -1,0 +1,54 @@
+Accelgor
+Level: 75
+Hardy Nature
+Ability: Hydration
+- Bug Buzz
+- Focus Blast
+- Me First
+- Energy Ball
+
+Bouffalant
+Level: 75
+Hardy Nature
+Ability: Sap Sipper
+- Head Charge
+- Megahorn
+- Stone Edge
+- Earthquake
+
+Druddigon
+Level: 75
+Hardy Nature
+Ability: Rough Skin
+- Night Slash
+- Outrage
+- Superpower
+- Payback
+
+Vanilluxe
+Level: 75
+Hardy Nature
+Ability: Ice Body
+- Blizzard
+- Light Screen
+- Flash Cannon
+- Acid Armor
+
+Escavalier
+Level: 75
+Hardy Nature
+Ability: Swarm
+- X-Scissor
+- Giga Impact
+- Iron Head
+- Aerial Ace
+
+Volcarona
+Level: 77
+Hardy Nature
+Ability: Flame Body
+- Overheat
+- Bug Buzz
+- Quiver Dance
+- Hyper Beam
+
