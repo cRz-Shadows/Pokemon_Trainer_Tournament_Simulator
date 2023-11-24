@@ -43,8 +43,6 @@ If you wish to run a set of simulations, everything you need is located in the '
 ## Check Out My Other Projects
 * Pokemon Crystal Legacy: https://www.youtube.com/watch?v=oeJBVY3z_uE&t=55s
 * Pokemon Crystal Legacy Github: https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy
-* My Music: https://open.spotify.com/artist/57AVfOKnIG9eXAUX2LlMJw?si=hFsHdg9SRsGZcqbniKkfIQ
-* Smith's Music: https://open.spotify.com/artist/0IuJY8EbkFdGuvDN8Is8jJ?si=0v7oy0BnQdK3lRZ5mhZ7Iw
 
 
 
