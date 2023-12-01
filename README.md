@@ -33,13 +33,13 @@ If you wish to run a set of simulations, everything you need is located in the '
 
 ## Modifications to Pokémon Showdown
 
-* The code for our heuristics based bot can be found in "Individual-Project/pokemon-showdown/sim/examples/Simulation-test-1.ts". This is the file to edit if you with to modify the AI. Note that this AI extends "Individual-Project/pokemon-showdown/sim/tools/random-player-ai.ts". All calls to "chooseMove()," "chooseSwitch()," "choosePokemon()," and "chooseTeamPreview()" have also been modified in this file to pass in requests so that the bot can use that data when selecting what to do.
+* The code for our heuristics based bot can be found in "/pokemon-showdown/sim/examples/Simulation-test-1.ts". This is the file to edit if you with to modify the AI. Note that this AI extends "/pokemon-showdown/sim/tools/random-player-ai.ts". All calls to "chooseMove()," "chooseSwitch()," "choosePokemon()," and "chooseTeamPreview()" have also been modified in this file to pass in requests so that the bot can use that data when selecting what to do.
 
-* In the file "Individual-Project/pokemon-showdown/sim/pokemon.ts," the "getSwitchRequestData()" function has been modified to include additional information for each Pokémon in each request message sent through the battle stream. Specifically, the modifications added information on the Pokémon's current boost table, its position on the battlefield, its maximum possible HP, any status effects applied to it, the species name, and whether it is trapped.
+* In the file "/pokemon-showdown/sim/pokemon.ts," the "getSwitchRequestData()" function has been modified to include additional information for each Pokémon in each request message sent through the battle stream. Specifically, the modifications added information on the Pokémon's current boost table, its position on the battlefield, its maximum possible HP, any status effects applied to it, the species name, and whether it is trapped.
 
-* In the file "Individual-Project/pokemon-showdown/sim/side.ts," the "getRequestData()" function has been modified to include information on any current side conditions on the battlefield, such as tailwind or trick room. Additionally, information on the foe has been added.
+* In the file "/pokemon-showdown/sim/side.ts," the "getRequestData()" function has been modified to include information on any current side conditions on the battlefield, such as tailwind or trick room. Additionally, information on the foe has been added.
 
-* In the file "Individual-Project/pokemon-showdown/sim/dex-moves.ts," line 505 has been modified to allow for checking how many times a multi-hit move hits.
+* In the file "/pokemon-showdown/sim/dex-moves.ts," line 505 has been modified to allow for checking how many times a multi-hit move hits.
 
 
 
