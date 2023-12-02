@@ -774,7 +774,8 @@ export class HeuristicsPlayerAI extends RandomPlayerAI {
 		for (const attackerType of attackerTypes) {
 			for (const defenderType of defenderTypes) {
 				if (!(attackerType=="???") && !(defenderType=="???")
-				&& !(attackerType==undefined) && !(defenderType==undefined)) {
+				&& !(attackerType==undefined) && !(defenderType==undefined)
+				&& !(attackerType=="") && !(defenderType=="")) {
 					multiplier *= Number(typeMatchups[attackerType][defenderType]);
 				}
 			}

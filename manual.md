@@ -36,7 +36,7 @@
 * Run `git clone https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator` to download the repository.
 * You can alternatively use this [direct link](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator/archive/refs/heads/main.zip) to download a zip file of the repository, but make sure you understand how to navigate the terminal with [`cd`](https://www.geeksforgeeks.org/cd-cmd-command/).
 * now run `cd Pokemon_Trainer_Tournament_Simulator/pokemon-showdown` to enter pokemon showdown.
-* Here you should run `node build`. This will compile pokemon showdown. If this fails for whatever reason, consult the [Pokemon Showdown Command-line Tools Documentation](https://github.com/smogon/pokemon-showdown/blob/master/COMMANDLINE.md)
+* Here you should run `npm install pokemon-showdown` and `node build`. This will compile pokemon showdown. If this fails for whatever reason, consult the [Pokemon Showdown Command-line Tools Documentation](https://github.com/smogon/pokemon-showdown/blob/master/COMMANDLINE.md)
 * Everything should now be compiled
 * now run `cd ../Data` to enter the Data directory.
 
