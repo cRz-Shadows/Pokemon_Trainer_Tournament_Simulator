@@ -602,7 +602,7 @@ export class HeuristicsPlayerAI extends RandomPlayerAI {
 				// Use if protect wasn't used last turn and opponent is poisoned, burned, or if your mon is leech seeded
 			for (var move of possibleMoves) {
 				const activeOpp = request.side.foe.pokemon.filter(mon => mon.isActive == true)[0];
-				if ((move.id || move.move) == ("protect" || "banefulbunker" ||"obscruct" || "craftyshield" || "detect" || "quickguard" || "spikyshield" || "silktrap")) {
+				if ((move.id || move.move) == ("protect" || "banefulbunker" || "obstruct" || "craftyshield" || "detect" || "quickguard" || "spikyshield" || "silktrap")) {
 					// stall out side conditions
 					if (((oppSideConditionList.includes("tailwind" || "lightscreen" || "reflect" || "trickroom")
 					&& !monSideConditionList.includes("tailwind" || "lightscreen" || "reflect")) 
