@@ -33,7 +33,7 @@
 ## Download/Clone The Repository And Basic Setup
 
 * Open command prompt/your native terminal, and use the [`cd`](https://www.geeksforgeeks.org/cd-cmd-command/) command to navigate to wherever you want to place the repository.
-* Run `git clone https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator` to download the repository.
+* Run `git clone --recursive https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator` to download the repository.
 * You can alternatively use this [direct link](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator/archive/refs/heads/main.zip) to download a zip file of the repository, but make sure you understand how to navigate the terminal with [`cd`](https://www.geeksforgeeks.org/cd-cmd-command/).
 * now run `cd Pokemon_Trainer_Tournament_Simulator/pokemon-showdown` to enter pokemon showdown.
 * Here you should run `npm install pokemon-showdown` and `node build`. This will compile pokemon showdown. If this fails for whatever reason, consult the [Pokemon Showdown Command-line Tools Documentation](https://github.com/smogon/pokemon-showdown/blob/master/COMMANDLINE.md)
