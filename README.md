@@ -39,7 +39,7 @@ If you wish to run a set of simulations, everything you need is located in the '
 
 * In the file "/pokemon-showdown/sim/side.ts," the "getRequestData()" function has been modified to include information on any current side conditions on the battlefield, such as tailwind or trick room. Additionally, information on the foe has been added.
 
-* In the file "/pokemon-showdown/sim/dex-moves.ts," line 505 has been modified to allow for checking how many times a multi-hit move hits.
+* In the file "/pokemon-showdown/sim/dex-moves.ts," The DataMove class' constructor has been modified to allow for checking how many times a multi-hit move hits.
 
 
 
