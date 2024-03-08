@@ -24,10 +24,8 @@ Here we have an environment for running large amounts of Pokémon simulations in
 
 
 ## Running Simulations Yourself
-See [manual.md](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator/blob/main/manual.md) for a more detailed guide if required.
-
-TLDR:
-Since there is a submodule in the repo, make sure to clone using `git clone --recursive https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator`. If you wish to run a set of simulations, everything you need is located in the 'Data' directory. You can create or use a predefined input file in 'Inputs' subdirectory, then run BuildBattles.py to generate a json file of matchups to feed to the simulator. If you desire you can modify BuildBattles.py to generate matchups in whatever way you like. Make sure you build pokemon showdown by navigating to the "pokemon-showdown" directory and running "node build", then "npm install pokemon-showdown" before trying to run any simulations. From there just just have to run runSimulations.py. Before running this, you should scroll down to line 61 of runSimulations.py and adjust the number of threads to use. Running a ryzen 9 7950X, 50 threads seemed to be the sweet spot for me, but I would recommend starting small and upping it to what your CPU can handle. Battles with errors can be found and rerun using get_battles_to_rerun.py, findErrors.py and removeErrors.py, if required. Analysis can be performed using parseOutput.py (for a png matrix output) and parseOutput_CSV.py (for a csv matrix output).
+See [manual.md](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator/blob/main/manual.md).
+Since there is a submodule in the repo, make sure to clone using `git clone --recursive https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator`. If you wish to run a set of simulations, everything you need is located in the 'Data' directory.
 
 
 

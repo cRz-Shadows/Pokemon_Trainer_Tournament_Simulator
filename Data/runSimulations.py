@@ -4,7 +4,7 @@ import threading
 import time
 from timeit import default_timer as timer
 
-def write_builds_to_file(lines, build_indices, file_path):
+def write_builds_to_file(lines, build_indices, file_path, setLevel):
     with open(file_path, "w") as f:
         f.truncate(0)  # Clear the file
         for build_index in build_indices:
@@ -20,13 +20,15 @@ def write_builds_to_file(lines, build_indices, file_path):
             for line in lines[build_start + 1:]:
                 if line.startswith('|'):
                     break  # If it's the start of the next build, stop writing
+                if setLevel is not None and line.startswith("Level: "):
+                    line = f"Level: {setLevel}\n" # Check if setLevel is not None and if the line starts with "Level: "
                 f.write(line)
             f.write("\n")  # Add a newline to separate builds
 
 # =============================================================================
 # Runs a single simulation for some matchup passed in
 # =============================================================================
-def runSimulation(matchup, threadNo, filename, teamNumbers):
+def runSimulation(matchup, threadNo, filename, teamNumbers, setLevel):
     # get number of each team from the teamNumbers dict
     team1No = get_keys_from_value(teamNumbers, matchup[0])[0]
     team2No = get_keys_from_value(teamNumbers, matchup[1])[0]
@@ -36,9 +38,9 @@ def runSimulation(matchup, threadNo, filename, teamNumbers):
     with open(filename) as f:
         lines = f.readlines()
         # Process the first group of builds
-        write_builds_to_file(lines, matchup[0], f"./WorkerFiles/{threadNo}1.txt")
+        write_builds_to_file(lines, matchup[0], f"./WorkerFiles/{threadNo}1.txt", setLevel)
         # Process the second group of builds
-        write_builds_to_file(lines, matchup[1], f"./WorkerFiles/{threadNo}2.txt")
+        write_builds_to_file(lines, matchup[1], f"./WorkerFiles/{threadNo}2.txt", setLevel)
         while True:
             #mycommand = "cd ../pokemon-showdown && node build && node ./dist/sim/examples/battle-stream-example"
             mycommand = "cd ../pokemon-showdown && node ./dist/sim/examples/Simulation-test-1 " + threadNo + " " + str(team1No) + " " + str(team2No)
@@ -68,8 +70,9 @@ with open('Inputs/GymLeaderTeams.json', 'r') as infile:
     teamNumbers = json.load(infile)
 
 print(len(teams))
+setLevel = 50 # If not None, all pokemon will be set to this level
 n = 100 # number of battles to stop running after
-# teams = teams[:n] # comment this out to simulate all battles
+teams = teams[:n] # comment this out to simulate all battles
 
 noOfTeams = len(teamNumbers)
 
@@ -91,7 +94,7 @@ start = time.time()
 while len(teams) >= noOfThreads:
     for i in range(noOfThreads):
         thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers))
+            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
         threads.append(thread)
         teams.pop(0)
     
@@ -106,7 +109,7 @@ while len(teams) >= noOfThreads:
 while len(teams) >= 25:
     for i in range(25):
         thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers))
+            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
         threads.append(thread)
         teams.pop(0)
     
@@ -121,7 +124,7 @@ while len(teams) >= 25:
 while len(teams) >= 10:
     for i in range(10):
         thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers))
+            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
         threads.append(thread)
         teams.pop(0)
     
@@ -134,7 +137,7 @@ while len(teams) >= 10:
 
 # run remaining battles
 for i in teams:
-    runSimulation(i, "0", filename, teamNumbers)
+    runSimulation(i, "0", filename, teamNumbers, setLevel)
     
 end = time.time()
 

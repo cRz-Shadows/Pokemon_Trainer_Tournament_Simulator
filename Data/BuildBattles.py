@@ -3,7 +3,7 @@ from itertools import combinations
 
 def generate_tournament_matchups(input_file, output_file):
     # How many times to run each battle
-    RUN_N_TIMES = 1
+    RUN_N_TIMES = 100
 
     # Read the JSON data from the input file
     with open(input_file, 'r') as file:

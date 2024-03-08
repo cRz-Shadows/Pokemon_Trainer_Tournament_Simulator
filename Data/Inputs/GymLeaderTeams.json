@@ -64,6 +64,12 @@
     "Olivia-(Grand-Trial)": [["Nosepass", 1421], ["Boldore", 1328], ["Lycanroc-Dusk", 1335]],
     "Nanu": [["Sableye", 1341], ["Krokorok", 1348], ["Persian-Alola", 1356]],
     "Hapu": [["Dugtrio-Alola", 1363], ["Gastrodon", 1371], ["Flygon", 1378], ["Mudsdale", 1384]],
+    "Ilima": [["Gumshoos", 5018], ["Smeargle", 5025], ["Komala", 5033]],
+    "Lana": [["Lanturn", 5040], ["Cloyster", 5047], ["Araquanid", 5054]],
+    "Kiawe": [["Arcanine", 5061], ["Talonflame", 5068], ["Marowak-Alola", 5075]],
+    "Mallow": [["Trevenant", 5082], ["Shiinotic", 5089], ["Tsareena", 5098]],
+    "Sophocles": [["Togedemaru", 5103], ["Magnezone", 5110], ["Golem-Alola", 5117]],
+    "Mina": [["Mawile", 5124], ["Granbull", 5131], ["Ribombee", 5138]],
 
     "Milo": [["Gossifleur", 1392], ["Eldegoss", 1399]],
     "Nessa-(Gym)": [["Goldeen", 1406], ["Arrokuda", 1414], ["Drednaw", 1422]],
@@ -137,6 +143,10 @@
     "Poppy": [["Copperajah", 2984], ["Magnezone", 2992], ["Bronzong", 3000], ["Corviknight", 3008], ["Tinkaton", 3016]],
     "Larry-(E4)": [["Tropius", 3024], ["Oricorio-Pom-Pom", 3032], ["Altaria", 3040], ["Staraptor", 3048], ["Flamigo", 3056]],
     "Hassel": [["Noivern", 3064], ["Haxorus", 3072], ["Dragalge", 3080], ["Flapple", 3088], ["Baxcalibur", 3096]],
+    "Amarys": [["Skarmory", 4706], ["Dugtrio-Alola", 4714], ["Scizor", 4722], ["Reuniclus", 4730], ["Empoleon", 4738], ["Metagross", 4746]],
+    "Crispin": [["Rotom-Heat", 4754], ["Talonflame", 4762], ["Exeggutor", 4770], ["Camerupt", 4778], ["Magmortar", 4786], ["Blaziken", 4794]],
+    "Drayton": [["Dragonite", 4802], ["Flygon", 4810], ["Haxorus", 4818], ["Sceptile", 4826], ["Kingdra", 4834], ["Archaludon", 4842]],
+    "Lacey": [["Whimsicott", 4850], ["Granbull", 4858], ["Primarina", 4866], ["Slowbro", 4874], ["Alcremie", 4882], ["Excadrill", 4890]],
 
 
 
@@ -169,6 +179,9 @@
     "Leon-(Rillaboom)": [["Aegislash", 3978], ["Dragapult", 3986], ["Haxorus", 3994], ["Rhyperior", 4042], ["Rillaboom", 4050], ["Charizard", 4018]],
 
     "Geeta": [["Espathra", 4058], ["Gogoat", 4066], ["Veluza", 4074], ["Avalugg", 4082], ["Kingambit", 4090], ["Glimmora", 4098]],
+    "Carmine-(Loyalty-Plaza)": [["Mightyena", 4898], ["Morpoko", 4906], ["Leavanny", 4914], ["Ninetales", 4922], ["Sinistcha", 4930]],
+    "Carmine-(Blueberry-Adademy)": [["Toucannon", 4938], ["Mightyena", 4946], ["Scrafty", 4954], ["Sinistcha", 4962]],
+    "Kieran": [["Dragonite", 4970], ["Politoed", 4978], ["Grimmsnarl", 4994], ["Porygon-Z", 4986], ["Incineroar", 5002], ["Hydrapple", 5010]],
 
 
 
@@ -185,5 +198,7 @@
     "Arven": [["Greedent", 4458], ["Cloyster", 4466], ["Scovillain", 4474], ["Toedscruel", 4482], ["Garganacl", 4490], ["Mabosstiff", 4498]],
     "Penny": [["Umbreon", 4506], ["Vaporeon", 4514], ["Jolteon", 4522], ["Flareon", 4530], ["Leafeon", 4538], ["Sylveon", 4546]],
     "Hop-(Zacian)": [["Dubwool", 4554], ["Snorlax", 4562], ["Pincurchin", 4570], ["Corviknight", 4578], ["Cinderace", 4586], ["Zacian", 4594]],
-    "Hop-(Zamazenta)": [["Dubwool", 4554], ["Snorlax", 4562], ["Pincurchin", 4570], ["Corviknight", 4578], ["Cinderace", 4586], ["Zamazenta", 4602]]
+    "Hop-(Zamazenta)": [["Dubwool", 4554], ["Snorlax", 4562], ["Pincurchin", 4570], ["Corviknight", 4578], ["Cinderace", 4586], ["Zamazenta", 4602]],
+    "Turo": [["Iron-Moth", 4610], ["Iron-Bundle", 4618], ["Iron-Hands", 4626], ["Iron-Jugulis", 4635], ["Iron-Thorns", 4642], ["Iron-Valiant", 4650]],
+    "Sada": [["Slither-Wing", 4658], ["Scream-Tail", 4666], ["Brute-Bonnet", 4674], ["Flutter-Mane", 4682], ["Sandy-Shocks", 4690], ["Roaring-Moon", 4698]]
   }

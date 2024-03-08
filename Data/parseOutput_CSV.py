@@ -5,6 +5,7 @@ import numpy as np
 from PIL import Image
 from matplotlib.colors import LinearSegmentedColormap
 import csv  # Import the csv module
+from tqdm import tqdm
 
 def print_battle_matrix(battle_matrix):
     # Calculate overall wins for each trainer
