@@ -79,9 +79,9 @@ def runSimulation(matchups, threadNo, trainer_lines, pokemon_lines, teamNumbers,
             game = str(len(matchup[0])) + "v" + str(len(matchup[1]))
 
             # Process the first group of builds
-            write_builds_to_file(trainer_lines, matchup[0], f"./WorkerFiles/{threadNo}1.txt", setLevel) # trainer is always first in the matchup
+            write_builds_to_file(trainer_lines, matchup[0], f"./WorkerFiles/{threadNo}1.txt", None) # trainer is always first in the matchup
             # Process the second group of builds
-            write_builds_to_file(pokemon_lines, [matchup[1]], f"./WorkerFiles/{threadNo}2.txt", setLevel) # pokemon is always first in the matchup
+            write_builds_to_file(pokemon_lines, [matchup[1]], f"./WorkerFiles/{threadNo}2.txt", setLevel) # pokemon is always second in the matchup
             while True:
                 mycommand = "cd ../pokemon-showdown && node ./dist/sim/examples/Simulation-test-1 " + threadNo + " " + str(team1No) + " " + str(team2No)
                 result = subprocess.getoutput(mycommand)
