@@ -1,4 +1,4 @@
-# Pokémon Simulator Environment
+# Pokémon Battle Simulator Environment
 
 Here we have an environment for running large amounts of Pokémon simulations in the command line. The Pokémon-showdown directory contains a modified version of https://github.com/smogon/pokemon-showdown, whose modifications are detailed below. In the Data directory, you can find various python files which can be used to build a set of battles from predefined text files of builds written in Pokémon Showdown output format, run large sets of multithreaded simulations, and parse and analyse the results of battles, producing a matrix of results. Additionally, Predefined teams for each trainer we used can be found in Data/Inputs. These are formatted inside of GymLeaderTeams.txt by referencing the species name and the line number of each pokemon build from GymLeaderPokemon.txt, for each member of the team.
 
@@ -44,11 +44,14 @@ Since there is a submodule in the repo, make sure to clone using `git clone --re
 ## Check Out My Other Projects
 * Pokemon Crystal Legacy: https://www.youtube.com/watch?v=oeJBVY3z_uE&t=55s
 * Pokemon Crystal Legacy Github: https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy
+* Pokemon Yellow Legacy: https://www.youtube.com/watch?v=jTH2fVqHPwc&t=1s
+* Pokemon Yellow Legacy Github: https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy
 
 
 
 ## Discussion and Community
 * YouTube: https://www.youtube.com/@smithplayspokemon
 * Discord: https://discord.gg/Wupx8tHRVS
+* Reddit: https://www.reddit.com/r/PokemonLegacy
 * Twitter: https://twitter.com/TheSmithPlays
 * Instagram: https://www.instagram.com/thesmithplays/
