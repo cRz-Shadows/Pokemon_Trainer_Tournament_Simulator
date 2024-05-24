@@ -20,7 +20,7 @@
     * threading
     * time
     * timeit
-* To install these, if you have anaconda, you can start anaconda prompt and run the commands:
+* To install these, see `requirements.txt`. If you have anaconda, you can also start anaconda prompt and run the commands:
     * `pip install matplotlib`
     * `pip install numpy`
     * `pip install Pillow`
@@ -53,8 +53,8 @@ If you want to run a tournament pitting trainers against other trainers, follow 
 
 ### Edit the teams
 * You will find two files inside of `Data/Inputs/`, these being `GymLeaderPokemon.txt` and `GymLeaderTeams.json`.
-    * `GymLeaderPokemon.txt` contains a list of Pokemon builds in [Pokemon Showdown Export Format](https://github.com/smogon/pokemon-showdown/blob/master/sim/TEAMS.md), each with a `|` character placed in front of the pokemon species to separate each build. You can add more builds to this file by exporting builds from the pokemon showdown [team builder](https://play.pokemonshowdown.com/teambuilder) or [damage calculator](https://calc.pokemonshowdown.com/), then adding the `|` deliminator in front of the pokemon species. See `GymLeaderPokemon.txt` for example formatting.
-    * `GymLeaderTeams.json` contains a map of trainer names to teams. Each pokemon in a team is a 2 element list of species, and the line number from `GymLeaderPokemon.txt` in which the first line of that build appears.
+    * `GymLeaderPokemon.txt` should contain a list of Pokemon builds in [Pokemon Showdown Export Format](https://github.com/smogon/pokemon-showdown/blob/master/sim/TEAMS.md), each with a `|` character placed in front of the pokemon species to separate each build. You can add builds to this file by exporting builds from the pokemon showdown [team builder](https://play.pokemonshowdown.com/teambuilder) or [damage calculator](https://calc.pokemonshowdown.com/), then adding the `|` deliminator in front of the pokemon species. See any of the `GymLeaderPokemon.txt` files in the `Data/Inputs/Videos/...` directories for example formatting.
+    * `GymLeaderTeams.json` should contain a map of trainer names to teams. Each pokemon in a team is a 2 element list of species, and the line number from `GymLeaderPokemon.txt` in which the first line of that build appears. Again, see the examples in `Data/Inputs/Videos/...` for example formatting.
 
 ### BuildBattles.py
 * Navigating to `Data/`, we see `BuildBattles.py`. This file takes in our pokemon trainer teams from before, and creates matchups for each combination. You can modify this to build battles in whatever way you like if you do not want all combinations. You can change the number of times each matchup is run by changing the `RUN_N_TIMES` variable - this is set to 1 by default.

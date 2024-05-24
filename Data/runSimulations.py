@@ -1,8 +1,12 @@
 import json
+import os
+import re
 import subprocess
 import threading
+from concurrent.futures import ThreadPoolExecutor
 import time
 from timeit import default_timer as timer
+from tqdm import tqdm
 
 def write_builds_to_file(lines, build_indices, file_path, setLevel):
     with open(file_path, "w") as f:
@@ -46,7 +50,7 @@ def runSimulation(matchup, threadNo, filename, teamNumbers, setLevel):
             mycommand = "cd ../pokemon-showdown && node ./dist/sim/examples/Simulation-test-1 " + threadNo + " " + str(team1No) + " " + str(team2No)
             result = subprocess.getoutput(mycommand)
             # if the battle fails we retry, sometimes showdown fails for some unexpected reason
-            if not (result.startswith("node:internal") or result.startswith("TypeError") or result.startswith("runtime")) or result.endswith("Node.js v21.1.0"):
+            if not (result.startswith("node:internal") or result.startswith("TypeError") or result.startswith("runtime") or re.search(r'Node\.js\s+v\d+\.\d+\.\d+$', result[-30:])):
                 try:
                     if not (result[:40].split("\n")[2].startswith("TypeError")):
                         break
@@ -60,7 +64,7 @@ def get_keys_from_value(d, val):
     return [k for k, v in d.items() if v == val]
 
 filename = "Inputs/" + "GymLeaderPokemon.txt"
-noOfThreads = 50
+noOfThreads = 1 # change this to fit your CPU
 
 #read in teams
 with open('Inputs/tournament_battles.json', 'r') as infile:
@@ -74,6 +78,7 @@ setLevel = 50 # If not None, all pokemon will be set to this level
 n = 100 # number of battles to stop running after
 teams = teams[:n] # comment this out to simulate all battles
 
+n = len(teams)
 noOfTeams = len(teamNumbers)
 
 with open ("./output.txt", "a") as o: 
@@ -91,54 +96,73 @@ subprocess.getoutput("cd ../pokemon-showdown && node build")
 threads = []
 start = time.time()
 
-while len(teams) >= noOfThreads:
-    for i in range(noOfThreads):
-        thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
-        threads.append(thread)
-        teams.pop(0)
-    
-    for i in threads:
-        i.start()
-    for i in threads:
-        i.join()
-    threads.clear()
-    print(len(teams)) #for keeping track of where we are
+lock = threading.Lock()
+lock2 = threading.Lock()
+condition = threading.Condition(lock)
 
-#speed up leftover battles
-while len(teams) >= 25:
-    for i in range(25):
-        thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
-        threads.append(thread)
-        teams.pop(0)
-    
-    for i in threads:
-        i.start()
-    for i in threads:
-        i.join()
-    threads.clear()
-    print(len(teams)) #for keeping track of where we are
+thread_names = [str(i+1) for i in range(noOfThreads)]
 
-#speed up leftover battles
-while len(teams) >= 10:
-    for i in range(10):
-        thread = threading.Thread(
-            target=runSimulation, args=(teams[0], str(i+1), filename, teamNumbers, setLevel))
-        threads.append(thread)
-        teams.pop(0)
-    
-    for i in threads:
-        i.start()
-    for i in threads:
-        i.join()
-    threads.clear()
-    print(len(teams)) #for keeping track of where we are
+simulation_counter = 0
+simulations_since_last_update = 0
 
-# run remaining battles
-for i in teams:
-    runSimulation(i, "0", filename, teamNumbers, setLevel)
+with open(filename) as f1:
+    trainer_lines = f1.readlines()
+
+    # Function to submit simulations and manage thread names
+def submit_simulation(executor, team):
+    global simulation_counter
+    global simulations_since_last_update
+    with condition:  # Use condition variable to wait for an available thread name
+        while not thread_names:
+            condition.wait()  # Wait for a thread name to become available
+        thread_name = thread_names.pop(0)  # Allocate a thread name
     
+    # Define a callback function to release the thread name back to the pool and notify waiting threads
+    def release_thread_name(future):
+        global simulation_counter
+        global simulations_since_last_update
+        with condition:
+            # print("releasing thread", thread_name)
+            thread_names.append(thread_name)
+            condition.notify()  # Notify one waiting thread that a thread name has become available
+            simulation_counter += 1
+            simulations_since_last_update += 1
+            if simulations_since_last_update >= 50 and len(teams) != 0 and simulation_counter > 0:
+                simulations_since_last_update = 0
+                current_runtime = time.time() - start
+                average_time_per_simulation = current_runtime / simulation_counter if simulation_counter else float('inf')
+                estimated_remaining_time = average_time_per_simulation * len(teams)
+
+                seconds = round(estimated_remaining_time)
+                minutes, seconds = divmod(seconds, 60)
+                hours, minutes = divmod(minutes, 60)
+
+                # Format the remaining time based on its length
+                if hours > 0:
+                    formatted_time = f"{hours} hour(s), {minutes} minute(s)"
+                elif minutes > 0:
+                    formatted_time = f"{minutes} minute(s), {seconds} second(s)"
+                else:
+                    formatted_time = f"{seconds} second(s)"
+
+                print(len(teams), "Simulations Left | Estimated Remaining Time:", formatted_time, "| Time Elapsed:", round(current_runtime))
+
+    # Submit the task
+    future = executor.submit(runSimulation, team, thread_name, filename, teamNumbers, setLevel)
+    # runSimulation, team, thread_name, trainer_lines, pokemon_lines, teamNumbers, leader_teamNumbers, setLevel
+    # Attach the callback to the future
+    future.add_done_callback(release_thread_name)
+
+print(len(teams))
+with ThreadPoolExecutor(max_workers=noOfThreads) as executor:
+    while teams:
+        with lock2:
+            if teams:
+                team = teams.pop(0)
+                # print("assigning teams", len(teams))
+            submit_simulation(executor, team)
+
+print(len(teams))  # Keeping track of remaining teams
 end = time.time()
 
 with open("output.txt", "a") as outfile:

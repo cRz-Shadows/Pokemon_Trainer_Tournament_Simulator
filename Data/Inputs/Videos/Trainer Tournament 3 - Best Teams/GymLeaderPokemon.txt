@@ -1,0 +1,6642 @@
+Onix @ Eviolite
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Rock Slide
+- Sandstorm
+- Iron Head
+|Golem @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Rock Polish
+- Earthquake
+- Sucker Punch
+|Kabutops @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Battle Armor
+- Waterfall
+- X-Scissor
+- Swords Dance
+- Rock Slide
+|Tyranitar @ Chople Berry
+Level: 50
+Hardy Nature
+Ability: Sand Stream
+- Stone Edge
+- Thunder Punch
+- Payback
+- Ice Punch
+|Aerodactyl @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Rock Slide
+- Earthquake
+- Fire Fang
+- Ice Fang
+|Rhyperior @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Solid Rock
+- Earthquake
+- Stone Edge
+- Megahorn
+- Avalanche
+|Starmie @ Petaya Berry
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Psychic
+- Hydro Pump
+- Ice Beam
+- Thunderbolt
+|Golduck @ Water Gem
+Level: 50
+Hardy Nature
+Ability: Cloud Nine
+- Blizzard
+- Focus Blast
+- Aqua Jet
+- Hone Claws
+|Seaking @ Wacan Berry
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Megahorn
+- Waterfall
+- Poison Jab
+- Agility
+|Lapras @ Ganlon Berry
+Level: 50
+Hardy Nature
+Ability: Shell Armor
+- Hydro Pump
+- Ice Beam
+- Thunderbolt
+- Confuse Ray
+|Slowbro @ Apicot Berry
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Psyshock
+- Scald
+- Slack Off
+- Yawn
+|Blastoise @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Avalanche
+- Iron Tail
+- Hydro Pump
+- Iron Defense
+|Raichu @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Static
+- Thunder Wave
+- Volt Tackle
+- Focus Punch
+- Fake Out
+|Electrode @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Static
+- Double Team
+- Signal Beam
+- Thunder Wave
+- Electro Ball
+|Electrode @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Static
+- Double Team
+- Signal Beam
+- Thunder Wave
+- Electro Ball
+|Electivire @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Motor Drive
+- Wild Charge
+- Cross Chop
+- Earthquake
+- Ice Punch
+|Jolteon @ Shuca Berry
+Level: 50
+Hardy Nature
+Ability: Volt Absorb
+- Iron Tail
+- Quick Attack
+- Volt Switch
+- Double Team
+|Lanturn @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Volt Absorb
+- Hydro Pump
+- Thunder
+- Blizzard
+- Signal Beam
+|Vileplume @ Black Sludge
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Swords Dance
+- Drain Punch
+- Synthesis
+- Sleep Powder
+|Venusaur @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Leaf Storm
+- Power Whip
+- Earthquake
+- Outrage
+|Cradily @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Suction Cups
+- Curse
+- Recover
+- Seed Bomb
+- Stone Edge
+|Exeggutor @ Tanga Berry
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Leaf Storm
+- Psyshock
+- Ancient Power
+- Psychic
+|Tangrowth @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Focus Blast
+- Solar Beam
+- Ancient Power
+- Synthesis
+|Abomasnow @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Snow Warning
+- Leech Seed
+- Protect
+- Blizzard
+- Sheer Cold
+|Skuntank
+Level: 61
+Hardy Nature
+Ability: Aftermath
+- Toxic
+- Dig
+- Sucker Punch
+- Explosion
+|Venomoth
+Level: 63
+Hardy Nature
+Ability: Tinted Lens
+- Baton Pass
+- Double Team
+- Silver Wind
+- Psychic
+|Toxicroak
+Level: 60
+Hardy Nature
+Ability: Dry Skin
+- Swagger
+- Cross Chop
+- Gunk Shot
+- X-Scissor
+|Swalot @ Leftovers
+Level: 62
+Hardy Nature
+Ability: Sticky Hold
+- Sludge Bomb
+- Amnesia
+- Pain Split
+- Yawn
+|Crobat
+Level: 64
+Hardy Nature
+Ability: Inner Focus
+- Fly
+- Cross Poison
+- Mean Look
+- Toxic
+|Muk @ Black Sludge
+Level: 62
+Hardy Nature
+Ability: Sticky Hold
+- Minimize
+- Screech
+- Swagger
+- Toxic
+|Alakazam @ Kasib Berry
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Charge Beam
+|Metagross @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Clear Body
+- Psychic
+- Shadow Ball
+- Signal Beam
+- Grass Knot
+|Exeggutor @ Tanga Berry
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Psychic
+- Energy Ball
+- Sleep Powder
+- Dream Eater
+|Slowking @ Choice Specs
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Scald
+- Psychic
+- Shadow Ball
+- Focus Blast
+|Espeon @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psyshock
+- Signal Beam
+- Psychic
+- Calm Mind
+|Sigilyph @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Wonder Skin
+- Psychic
+- Air Slash
+- Ice Beam
+- Light Screen
+|Arcanine @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Overheat
+- Close Combat
+- Extreme Speed
+- Bulldoze
+|Ninetales @ Charti Berry
+Level: 50
+Hardy Nature
+Ability: Flash Fire
+- Fire Blast
+- Energy Ball
+- Psyshock
+- Will-O-Wisp
+|Charizard @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Flamethrower
+- Air Slash
+- Focus Blast
+- Dragon Pulse
+|Magmortar @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Fire Blast
+- Psychic
+- Thunderbolt
+- Rock Slide
+|Flareon @ Passho Berry
+Level: 50
+Hardy Nature
+Ability: Flash Fire
+- Superpower
+- Quick Attack
+- Overheat
+- Toxic
+|Rotom-Heat @ Flame Orb
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Trick
+- Thunderbolt
+- Overheat
+- Pain Split
+|Dugtrio @ Smooth Rock
+Level: 68
+Hardy Nature
+Ability: Sand Veil
+- Sandstorm
+- Earthquake
+- Sucker Punch
+- Stealth Rock
+|Nidoking
+Level: 68
+Hardy Nature
+Ability: Poison Point
+- Earthquake
+- Poison Jab
+- Throat Chop
+- Aqua Tail
+|Nidoqueen
+Level: 68
+Hardy Nature
+Ability: Poison Point
+- Surf
+- Sludge Wave
+- Earth Power
+- Flamethrower
+|Rhyperior
+Level: 68
+Hardy Nature
+Ability: Lightning Rod
+- Megahorn
+- Earthquake
+- Thunder Punch
+- Stone Edge
+|Mewtwo
+Level: 70
+Hardy Nature
+Ability: Pressure
+- Psystrike
+- Aura Sphere
+- Psychic
+- Ice Beam
+|Dewgong
+Level: 61
+Hardy Nature
+Ability: Thick Fat
+- Aqua Jet
+- Ice Shard
+- Waterfall
+- Iron Tail
+|Jynx
+Level: 61
+Hardy Nature
+Ability: Oblivious
+- Lovely Kiss
+- Psychic
+- Shadow Ball
+- Blizzard
+|Sandslash-Alola
+Level: 61
+Hardy Nature
+Ability: Snow Cloak
+- Ice Punch
+- Ice Shard
+- Earthquake
+- Iron Tail
+|Cloyster
+Level: 61
+Hardy Nature
+Ability: Shell Armor
+- Ice Beam
+- Spike Cannon
+- Hydro Pump
+- Poison Jab
+|Slowbro
+Level: 61
+Hardy Nature
+Ability: Oblivious
+- Surf
+- Yawn
+- Flamethrower
+- Psychic
+|Lapras
+Level: 62
+Hardy Nature
+Ability: Water Absorb
+- Blizzard
+- Dragon Pulse
+- Hydro Pump
+- Thunder
+|Hitmontop
+Level: 62
+Hardy Nature
+Ability: Technician
+- Close Combat
+- Earthquake
+- Counter
+- Quick Attack
+|Hitmonlee
+Level: 61
+Hardy Nature
+Ability: Reckless
+- Close Combat
+- Reversal
+- Blaze Kick
+- Swagger
+|Hitmonchan
+Level: 61
+Hardy Nature
+Ability: Iron Fist
+- Close Combat
+- Drain Punch
+- Bullet Punch
+- Substitute
+|Hariyama @ Sitrus Berry
+Level: 62
+Hardy Nature
+Ability: Guts
+- Bulk Up
+- Low Kick
+- Payback
+- Bullet Punch
+|Lucario
+Level: 64
+Hardy Nature
+Ability: Inner Focus
+- Close Combat
+- Counter
+- Iron Tail
+- Extreme Speed
+|Machamp
+Level: 64
+Hardy Nature
+Ability: No Guard
+- Dynamic Punch
+- Bullet Punch
+- Stone Edge
+- Foresight
+|Arbok
+Level: 63
+Hardy Nature
+Ability: Intimidate
+- Glare
+- Poison Jab
+- Crunch
+- Earthquake
+|Golbat
+Level: 63
+Hardy Nature
+Ability: Inner Focus
+- Air Slash
+- Crunch
+- Quick Attack
+- Leech Life
+|Marowak-Alola
+Level: 63
+Hardy Nature
+Ability: Cursed Body
+- Flare Blitz
+- Bonemerang
+- Shadow Ball
+- Rock Slide
+|Gengar
+Level: 63
+Hardy Nature
+Ability: Cursed Body
+- Shadow Ball
+- Will-O-Wisp
+- Sludge Bomb
+- Sucker Punch
+|Weezing
+Level: 63
+Hardy Nature
+Ability: Levitate
+- Sludge Bomb
+- Fire Blast
+- Shadow Ball
+- Thunder
+|Gengar
+Level: 64
+Hardy Nature
+Ability: Cursed Body
+- Shadow Ball
+- Dazzling Gleam
+- Sucker Punch
+- Sludge Bomb
+|Dragonite @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Inner Focus
+- Extreme Speed
+- Ice Punch
+- Fire Punch
+- Draco Meteor
+|Salamence @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Dragon Claw
+- Crunch
+- Earthquake
+- Stone Edge
+|Kingdra @ Scope Lens
+Level: 50
+Hardy Nature
+Ability: Sniper
+- Surf
+- Ice Beam
+- Dragon Pulse
+- Flash Cannon
+|Hydreigon @ White Herb
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Draco Meteor
+- Fire Blast
+- Earth Power
+- Dark Pulse
+|Haxorus @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Rivalry
+- Outrage
+- Superpower
+- Earthquake
+- Rock Slide
+|Flygon @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Solar Beam
+- Earth Power
+- Draco Meteor
+- U-turn
+|Aerodactyl @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Rock Head
+- Stone Edge
+- Earthquake
+- Ice Fang
+- Fire Blast
+|Exeggutor @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Leaf Storm
+- Wood Hammer
+- Zen Headbutt
+- Leech Seed
+|Gyarados @ King's Rock
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Ice Fang
+- Waterfall
+- Earthquake
+- Outrage
+|Alakazam @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Reflect
+|Arcanine @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Flare Blitz
+- Close Combat
+- Wild Charge
+- Extreme Speed
+|Machamp @ White Herb
+Level: 50
+Hardy Nature
+Ability: No Guard
+- Superpower
+- Stone Edge
+- Fire Punch
+- Bullet Punch
+|Pidgeot @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Keen Eye
+- Air Slash
+- Double Team
+- Swagger
+- Return
+|Crobat @ Red Card
+Level: 50
+Hardy Nature
+Ability: Inner Focus
+- Taunt
+- Confuse Ray
+- Acrobatics
+- Super Fang
+|Aerodactyl @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Earthquake
+- Protect
+- Rock Slide
+- Ice Fang
+|Honchkrow @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Super Luck
+- Brave Bird
+- Night Slash
+- Icy Wind
+- Heat Wave
+|Xatu @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psyshock
+- Roost
+- Calm Mind
+- Stored Power
+|Swellow @ Flame Orb
+Level: 50
+Hardy Nature
+Ability: Guts
+- Facade
+- Protect
+- Endeavor
+- Aerial Ace
+|Scizor @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Technician
+- Swords Dance
+- U-turn
+- Acrobatics
+- Bullet Punch
+|Shuckle @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Earthquake
+- Power Split
+- Toxic
+|Heracross @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Megahorn
+- Stone Edge
+- Shadow Claw
+- Close Combat
+|Pinsir @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Hyper Cutter
+- Guillotine
+- Protect
+- Bulldoze
+- X-Scissor
+|Armaldo @ Quick Claw
+Level: 50
+Hardy Nature
+Ability: Battle Armor
+- Swords Dance
+- X-Scissor
+- Stone Edge
+- Earthquake
+|Yanmega @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Speed Boost
+- Protect
+- Giga Drain
+- Bug Buzz
+- Air Slash
+|Miltank @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Zen Headbutt
+- Brick Break
+- Return
+- Milk Drink
+|Blissey @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Serene Grace
+- Flamethrower
+- Soft-Boiled
+- Toxic
+- Grass Knot
+|Tauros @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Protect
+- Earthquake
+- Return
+- Rock Slide
+|Ambipom @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Technician
+- Double Hit
+- Fake Out
+- Ice Punch
+- Low Sweep
+|Ursaring @ Toxic Orb
+Level: 50
+Hardy Nature
+Ability: Guts
+- Swords Dance
+- Facade
+- Rock Slide
+- Crunch
+|Lopunny @ Chople Berry
+Level: 50
+Hardy Nature
+Ability: Cute Charm
+- Entrainment
+- Encore
+- Low Kick
+- Return
+|Gengar @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Shadow Ball
+- Focus Blast
+- Giga Drain
+- Thunderbolt
+|Mismagius @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Confuse Ray
+- Will-O-Wisp
+- Perish Song
+- Mean Look
+|Banette @ Ghost Gem
+Level: 50
+Hardy Nature
+Ability: Insomnia
+- Shadow Claw
+- Sucker Punch
+- Destiny Bond
+- Gunk Shot
+|Dusknoir @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Shadow Sneak
+- Will-O-Wisp
+- Fire Punch
+- Protect
+|Chandelure @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Overheat
+- Shadow Ball
+- Energy Ball
+- Psychic
+|Froslass @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Snow Cloak
+- Destiny Bond
+- Thunder Wave
+- Ice Beam
+- Shadow Ball
+|Poliwrath @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Water Absorb
+- Belly Drum
+- Hypnosis
+- Rock Slide
+- Waterfall
+|Machamp @ Choice Band
+Level: 50
+Hardy Nature
+Ability: No Guard
+- Ice Punch
+- Stone Edge
+- Dynamic Punch
+- Earthquake
+|Conkeldurr @ Fighting Gem
+Level: 50
+Hardy Nature
+Ability: Sheer Force
+- Drain Punch
+- Mach Punch
+- Rock Slide
+- Earthquake
+|Hitmontop @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Technician
+- Triple Kick
+- Feint
+- Mach Punch
+- Bullet Punch
+|Hitmonchan @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Iron Fist
+- Double Team
+- Ice Punch
+- Thunder Punch
+- Drain Punch
+|Hitmonlee @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Reckless
+- Bulldoze
+- High Jump Kick
+- Fake Out
+- Stone Edge
+|Steelix @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Curse
+- Stealth Rock
+- Earthquake
+- Gyro Ball
+|Magnezone @ Quick Claw
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Mirror Coat
+- Magnet Rise
+|Forretress @ Iron Ball
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Earthquake
+- Explosion
+- Toxic
+- Gyro Ball
+|Skarmory @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Curse
+- Stealth Rock
+- Roost
+- Aerial Ace
+|Metagross @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Clear Body
+- Earthquake
+- Explosion
+- Meteor Mash
+- Bullet Punch
+|Lucario @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Steadfast
+- Aura Sphere
+- Extreme Speed
+- Stone Edge
+- Crunch
+|Mamoswine @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Icicle Spear
+- Ice Shard
+- Earthquake
+- Endeavor
+|Jynx @ Psychic Gem
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Focus Blast
+- Blizzard
+- Psyshock
+- Lovely Kiss
+|Dewgong @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Dive
+- Sheer Cold
+- Rest
+- Sleep Talk
+|Cloyster @ King's Rock
+Level: 50
+Hardy Nature
+Ability: Skill Link
+- Shell Smash
+- Explosion
+- Rock Blast
+- Icicle Spear
+|Lapras @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Shell Armor
+- Rest
+- Surf
+- Ice Beam
+- Thunderbolt
+|Weavile @ Ice Gem
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Low Kick
+- Night Slash
+- Ice Punch
+- Fake Out
+|Kingdra @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Sniper
+- Rest
+- Waterfall
+- Dragon Dance
+- Outrage
+|Dragonite @ Yache Berry
+Level: 50
+Hardy Nature
+Ability: Inner Focus
+- Draco Meteor
+- Earthquake
+- Extreme Speed
+- Outrage
+|Altaria @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Toxic
+- Fire Blast
+- Double Team
+- Cotton Guard
+|Salamence @ Dragon Gem
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Draco Meteor
+- Rock Slide
+- Earthquake
+- Outrage
+|Druddigon @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Rough Skin
+- Glare
+- Sucker Punch
+- Dragon Claw
+- Revenge
+|Garchomp @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Sand Veil
+- Dual Chop
+- Earthquake
+- Fire Fang
+- Swords Dance
+|Bronzong
+Level: 58
+Hardy Nature
+Ability: Heatproof
+- Gravity
+- Reflect
+- Payback
+- Psychic
+|Jynx
+Level: 60
+Hardy Nature
+Ability: Forewarn
+- Fake Tears
+- Lovely Kiss
+- Dream Eater
+- Blizzard
+|Grumpig
+Level: 59
+Hardy Nature
+Ability: Own Tempo
+- Confuse Ray
+- Signal Beam
+- Power Gem
+- Psychic
+|Slowbro
+Level: 60
+Hardy Nature
+Ability: Own Tempo
+- Curse
+- Body Slam
+- Amnesia
+- Psychic
+|Gardevoir
+Level: 61
+Hardy Nature
+Ability: Trace
+- Calm Mind
+- Focus Blast
+- Charge Beam
+- Psychic
+|Xatu @ Sitrus Berry
+Level: 62
+Hardy Nature
+Ability: Synchronize
+- Confuse Ray
+- Shadow Ball
+- Psychic
+- Quick Attack
+|Weavile
+Level: 62
+Hardy Nature
+Ability: Pressure
+- Ice Punch
+- Night Slash
+- Ice Shard
+- Low Kick
+|Absol
+Level: 62
+Hardy Nature
+Ability: Super Luck
+- Detect
+- Perish Song
+- Night Slash
+- Psycho Cut
+|Spiritomb
+Level: 62
+Hardy Nature
+Ability: Pressure
+- Curse
+- Pain Split
+- Confuse Ray
+- Sucker Punch
+|Houndoom
+Level: 63
+Hardy Nature
+Ability: Flash Fire
+- Nasty Plot
+- Dark Pulse
+- Flamethrower
+- Sludge Bomb
+|Honchkrow
+Level: 64
+Hardy Nature
+Ability: Super Luck
+- Thunder Wave
+- Whirlwind
+- Drill Peck
+- Sucker Punch
+|Umbreon @ Sitrus Berry
+Level: 64
+Hardy Nature
+Ability: Synchronize
+- Confuse Ray
+- Payback
+- Sucker Punch
+- Curse
+|Venomoth @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Tinted Lens
+- Quiver Dance
+- Bug Buzz
+- Sleep Powder
+- Psychic
+|Weezing @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Thunderbolt
+- Flamethrower
+- Will-O-Wisp
+- Sludge Bomb
+|Tentacruel @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Clear Body
+- Scald
+- Sludge Bomb
+- Rest
+- Ice Beam
+|Roserade @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Poison Point
+- Leaf Storm
+- Sleep Powder
+- Substitute
+- Leech Seed
+|Nidoqueen @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Poison Point
+- Sludge Wave
+- Ice Beam
+- Earth Power
+- Thunderbolt
+|Crobat @ Black Sludge
+Level: 100
+Hardy Nature
+Ability: Inner Focus
+- Toxic
+- Brave Bird
+- Hypnosis
+- Protect
+|Pikachu @ Light Ball
+Level: 50
+Hardy Nature
+Ability: Static
+- Volt Tackle
+- Iron Tail
+- Brick Break
+- Fake Out
+|Venusaur @ White Herb
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Leaf Storm
+- Sludge Bomb
+- Earthquake
+- Sleep Powder
+|Charizard @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Fire Blast
+- Air Slash
+- Focus Blast
+- Dragon Pulse
+|Blastoise @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Water Spout
+- Hydro Pump
+- Blizzard
+- Focus Blast
+|Snorlax @ Quick Claw
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Body Slam
+- Earthquake
+- Crunch
+- Seed Bomb
+|Lapras @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Shell Armor
+- Ice Beam
+- Ice Shard
+- Hydro Pump
+- Thunderbolt
+|Probopass @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Pain Split
+- Power Gem
+- Earth Power
+- Thunderbolt
+|Armaldo @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Battle Armor
+- Rock Polish
+- Earthquake
+- X-Scissor
+- Rock Slide
+|Cradily @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Suction Cups
+- Rock Slide
+- Giga Drain
+- Amnesia
+- Toxic
+|Aggron @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Rock Head
+- Metal Burst
+- Avalanche
+- Iron Head
+- Head Smash
+|Carracosta @ Water Gem
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Shell Smash
+- Rock Slide
+- Aqua Jet
+- Waterfall
+|Golem @ Ground Gem
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Earthquake
+- Focus Punch
+- Fire Punch
+- Protect
+|Hariyama @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Bulk Up
+- Rest
+- Revenge
+- Stone Edge
+|Scrafty @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Moxie
+- Bulk Up
+- Drain Punch
+- Dragon Tail
+- Amnesia
+|Breloom @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Effect Spore
+- Spore
+- Focus Punch
+- Seed Bomb
+- Stone Edge
+|Machamp @ Choice Band
+Level: 50
+Hardy Nature
+Ability: No Guard
+- Dynamic Punch
+- Stone Edge
+- Fire Punch
+- Earthquake
+|Mienshao @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Regenerator
+- High Jump Kick
+- Fake Out
+- Aerial Ace
+- Drain Punch
+|Heracross @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Megahorn
+- Stone Edge
+- Aerial Ace
+- Close Combat
+|Manectric @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Static
+- Double Team
+- Thunder Wave
+- Thunderbolt
+- Flamethrower
+|Magnezone @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Thunderbolt
+- Toxic
+- Flash Cannon
+- Protect
+|Electrode @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Static
+- Swagger
+- Thunder Wave
+- Thunder
+- Signal Beam
+|Rotom-Wash @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Will-O-Wisp
+- Hydro Pump
+- Thunder Cage
+- Hex
+|Ampharos @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Static
+- Fire Punch
+- Thunder Punch
+- Bulldoze
+- Brick Break
+|Raichu @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Static
+- Grass Knot
+- Swagger
+- Thunder
+- Focus Blast
+|Torkoal @ Leftovers
+Level: 50
+Hardy Nature
+Ability: White Smoke
+- Overheat
+- Stone Edge
+- Earthquake
+- Yawn
+|Camerupt @ Passho Berry
+Level: 50
+Hardy Nature
+Ability: Solid Rock
+- Will-O-Wisp
+- Flamethrower
+- Earth Power
+- Fissure
+|Chandelure @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Flame Charge
+- Shadow Ball
+- Flamethrower
+- Calm Mind
+|Blaziken @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Earthquake
+- Stone Edge
+- Flame Charge
+- High Jump Kick
+|Houndoom @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Flash Fire
+- Will-O-Wisp
+- Sucker Punch
+- Overheat
+- Flame Charge
+|Magmortar @ Shuca Berry
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Psychic
+- Flame Charge
+- Thunderbolt
+- Fire Blast
+|Slaking @ Eject Button
+Level: 50
+Hardy Nature
+Ability: Truant
+- Giga Impact
+- Hammer Arm
+- Earthquake
+- Night Slash
+|Ambipom @ Normal Gem
+Level: 50
+Hardy Nature
+Ability: Technician
+- Return
+- Acrobatics
+- Fake Out
+- Fire Punch
+|Bouffalant @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Reckless
+- Head Charge
+- Stone Edge
+- Megahorn
+- Revenge
+|Staraptor @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Brave Bird
+- Close Combat
+- Quick Attack
+- Final Gambit
+|Exploud @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Soundproof
+- Fire Blast
+- Focus Blast
+- Hyper Voice
+- Blizzard
+|Sawsbuck @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Return
+- Swords Dance
+- Horn Leech
+- Rest
+|Altaria @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Cotton Guard
+- Dragon Dance
+- Sky Attack
+- Earthquake
+|Sigilyph @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Wonder Skin
+- Thunder Wave
+- Psychic
+- Air Slash
+- Ancient Power
+|Gyarados @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Dragon Dance
+- Waterfall
+- Ice Fang
+- Substitute
+|Skarmory @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Aerial Ace
+- Steel Wing
+- Whirlwind
+- Spikes
+|Tropius @ Yache Berry
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Sunny Day
+- Attract
+- Air Slash
+- Solar Beam
+|Honchkrow @ Dark Gem
+Level: 50
+Hardy Nature
+Ability: Super Luck
+- Drill Peck
+- Sucker Punch
+- Icy Wind
+- Tailwind
+|Solrock @ Passho Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Zen Headbutt
+- Rock Slide
+- Earthquake
+- Trick Room
+|Xatu @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psychic
+- Shadow Ball
+- Light Screen
+- Trick Room
+|Bronzong @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Zen Headbutt
+- Earthquake
+- Gyro Ball
+- Trick Room
+|Reuniclus @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Overcoat
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Trick Room
+|Gallade @ Scope Lens
+Level: 50
+Hardy Nature
+Ability: Steadfast
+- Psycho Cut
+- Night Slash
+- Ice Punch
+- Close Combat
+|Claydol @ Kasib Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Psychic
+- Explosion
+- Light Screen
+- Trick Room
+|Lunatone @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Grass Knot
+- Signal Beam
+- Trick Room
+- Cosmic Power
+|Xatu @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Zen Headbutt
+- U-turn
+- Pain Split
+- Trick Room
+|Bronzong @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Hypnosis
+- Iron Head
+- Earthquake
+- Trick Room
+|Gothitelle @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Frisk
+- Psychic
+- Shadow Ball
+- Calm Mind
+- Trick Room
+|Gardevoir @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psychic
+- Disable
+- Thunderbolt
+- Will-O-Wisp
+|Claydol @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Psyshock
+- Earth Power
+- Trick Room
+- Ice Beam
+|Kingdra @ Haban Berry
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+|Walrein @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Toxic
+- Sheer Cold
+- Super Fang
+- Surf
+|Crawdaunt @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Hyper Cutter
+- Rain Dance
+- Guillotine
+- Crabhammer
+- Night Slash
+|Whiscash @ Chesto Berry
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Rest
+- Waterfall
+- Earthquake
+- Spark
+|Relicanth @ Damp Rock
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Rain Dance
+- Earthquake
+- Waterfall
+- Rock Slide
+|Politoed @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Water Absorb
+- Hypnosis
+- Focus Blast
+- Ice Beam
+- Scald
+|Scrafty
+Level: 70
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Brick Break
+- Poison Jab
+- Dragon Claw
+|Shiftry
+Level: 70
+Hardy Nature
+Ability: Chlorophyll
+- Fake Out
+- Feint Attack
+- Extrasensory
+- Leaf Blade
+|Zoroark
+Level: 70
+Hardy Nature
+Ability: Illusion
+- Night Slash
+- Shadow Claw
+- Flamethrower
+- Dark Pulse
+|Sharpedo
+Level: 70
+Hardy Nature
+Ability: Rough Skin
+- Crunch
+- Poison Fang
+- Aqua Jet
+- Slash
+|Mandibuzz
+Level: 70
+Hardy Nature
+Ability: Overcoat
+- Brave Bird
+- Bone Rush
+- Feint Attack
+- Tailwind
+|Absol
+Level: 72
+Hardy Nature
+Ability: Super Luck
+- Aerial Ace
+- Night Slash
+- Psycho Cut
+- Slash
+|Banette
+Level: 71
+Hardy Nature
+Ability: Insomnia
+- Shadow Ball
+- Grudge
+- Toxic
+- Psychic
+|Mismagius
+Level: 71
+Hardy Nature
+Ability: Levitate
+- Shadow Ball
+- Power Gem
+- Pain Split
+- Thunderbolt
+|Drifblim
+Level: 71
+Hardy Nature
+Ability: Aftermath
+- Phantom Force
+- Psychic
+- Icy Wind
+- Acrobatics
+|Chandelure
+Level: 71
+Hardy Nature
+Ability: Flame Body
+- Hex
+- Flamethrower
+- Energy Ball
+- Dark Pulse
+|Dusknoir
+Level: 71
+Hardy Nature
+Ability: Pressure
+- Hex
+- Fire Punch
+- Ice Punch
+- Thunder Punch
+|Sableye
+Level: 73
+Hardy Nature
+Ability: Prankster
+- Shadow Claw
+- Foul Play
+- Power Gem
+- Fake Out
+|Abomasnow
+Level: 72
+Hardy Nature
+Ability: Snow Warning
+- Blizzard
+- Wood Hammer
+- Ice Shard
+- Earthquake
+|Beartic
+Level: 72
+Hardy Nature
+Ability: Snow Cloak
+- Icicle Crash
+- Slash
+- Shadow Claw
+- Brick Break
+|Froslass
+Level: 72
+Hardy Nature
+Ability: Snow Cloak
+- Draining Kiss
+- Blizzard
+- Hail
+- Shadow Ball
+|Vanilluxe
+Level: 72
+Hardy Nature
+Ability: Ice Body
+- Ice Beam
+- Freeze-Dry
+- Mirror Coat
+- Signal Beam
+|Walrein
+Level: 72
+Hardy Nature
+Ability: Thick Fat
+- Surf
+- Body Slam
+- Blizzard
+- Sheer Cold
+|Glalie
+Level: 74
+Hardy Nature
+Ability: Inner Focus
+- Protect
+- Ice Shard
+- Hail
+- Freeze-Dry
+|Altaria
+Level: 73
+Hardy Nature
+Ability: Natural Cure
+- Cotton Guard
+- Aerial Ace
+- Dragon Pulse
+- Moonblast
+|Dragalge
+Level: 73
+Hardy Nature
+Ability: Poison Point
+- Dragon Pulse
+- Hydro Pump
+- Sludge Wave
+- Thunderbolt
+|Kingdra
+Level: 73
+Hardy Nature
+Ability: Sniper
+- Dragon Pulse
+- Surf
+- Yawn
+- Ice Beam
+|Flygon
+Level: 73
+Hardy Nature
+Ability: Levitate
+- Flamethrower
+- Boomburst
+- Dragon Pulse
+- Screech
+|Haxorus
+Level: 73
+Hardy Nature
+Ability: Rivalry
+- Dragon Claw
+- Earthquake
+- X-Scissor
+- Shadow Claw
+|Salamence
+Level: 75
+Hardy Nature
+Ability: Intimidate
+- Dragon Rush
+- Zen Headbutt
+- Crunch
+- Thunder Fang
+|Metagross @ Occa Berry
+Level: 50
+Hardy Nature
+Ability: Clear Body
+- Zen Headbutt
+- Hammer Arm
+- Earthquake
+- Bullet Punch
+|Aggron @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Head Smash
+- Avalanche
+- Earthquake
+- Metal Burst
+|Excadrill @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Sand Rush
+- Earthquake
+- Rock Slide
+- X-Scissor
+- Sandstorm
+|Archeops @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Defeatist
+- Head Smash
+- Acrobatics
+- Earthquake
+- Quick Attack
+|Cradily @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Suction Cups
+- Stone Edge
+- Seed Bomb
+- Earthquake
+- Sandstorm
+|Armaldo @ White Herb
+Level: 50
+Hardy Nature
+Ability: Battle Armor
+- X-Scissor
+- Rock Blast
+- Earthquake
+- Superpower
+|Milotic @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Marvel Scale
+- Scald
+- Icy Wind
+- Rest
+- Sleep Talk
+|Sharpedo @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Rough Skin
+- Hydro Pump
+- Crunch
+- Zen Headbutt
+- Aqua Jet
+|Walrein @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Surf
+- Yawn
+- Blizzard
+- Sheer Cold
+|Ludicolo @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Surf
+- Focus Blast
+- Giga Drain
+- Rain Dance
+|Swampert @ Rindo Berry
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Muddy Water
+- Ice Beam
+- Earth Power
+- Focus Blast
+|Starmie @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Surf
+- Psychic
+- Thunderbolt
+- Signal Beam
+|Umbreon @ Chesto Berry
+Level: 50
+Calm Nature
+Ability: Synchronize
+EVs: 252 HP / 252 SpA / 6 SpD
+- Double-Edge
+- Confuse Ray
+- Rest
+- Psychic
+|Gengar @ Leftovers
+Level: 50
+Modest Nature
+Ability: Levitate
+EVs: 252 HP / 252 Def / 6 SpA
+- Psychic
+- Hypnosis
+- Dream Eater
+- Destiny Bond
+|Breloom @ Lum Berry
+Level: 50
+Brave Nature
+Ability: Effect Spore
+EVs: 6 HP / 252 Atk / 252 Spe
+- Spore
+- Focus Punch
+- Giga Drain
+- Headbutt
+|Swampert @ Leftovers
+Level: 50
+Brave Nature
+Ability: Torrent
+EVs: 252 HP / 252 Atk / 6 Def
+- Surf
+- Earthquake
+- Ice Beam
+- Mirror Coat
+|Metagross @ Quick Claw
+Level: 50
+Brave Nature
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 6 Def
+- Psychic
+- Meteor Mash
+- Earthquake
+- Protect
+|Latias @ Chesto Berry
+Level: 50
+Modest Nature
+Ability: Levitate
+EVs: 252 HP / 252 Def / 6 Spe
+- Thunderbolt
+- Psychic
+- Calm Mind
+- Rest
+|Seviper @ Focus Band
+Level: 50
+Bold Nature
+Ability: Shed Skin
+EVs: 252 HP / 252 SpA / 6 SpD
+- Swagger
+- Crunch
+- Giga Drain
+- Sludge Bomb
+|Steelix @ Bright Powder
+Level: 50
+Hardy Nature
+Ability: Sturdy
+EVs: 252 HP / 6 Atk / 252 SpD
+- Earthquake
+- Explosion
+- Rock Slide
+- Screech
+|Gyarados @ Chesto Berry
+Level: 50
+Adamant Nature
+Ability: Intimidate
+EVs: 252 HP / 6 Atk / 252 SpD
+- Dragon Dance
+- Return
+- Rest
+- Roar
+|Arcanine @ White Herb
+Level: 50
+Hasty Nature
+Ability: Intimidate
+EVs: 6 HP / 252 Atk / 252 Def
+- Overheat
+- Extreme Speed
+- Roar
+- Protect
+|Slaking @ Scope Lens
+Level: 50
+Hardy Nature
+Ability: Truant
+EVs: 6 HP / 252 Atk / 252 Spe
+- Hyper Beam
+- Earthquake
+- Shadow Ball
+- Yawn
+|Suicune @ King's Rock
+Level: 50
+Hasty Nature
+Ability: Pressure
+EVs: 252 HP / 252 Def / 6 Spe
+- Blizzard
+- Surf
+- Calm Mind
+- Bite
+|Regirock @ Quick Claw
+Level: 50
+Adamant Nature
+Ability: Clear Body
+EVs: 152 HP / 152 Atk / 106 SpA / 100 SpD
+- Explosion
+- Superpower
+- Earthquake
+- Ancient Power
+|Registeel @ Leftovers
+Level: 50
+Adamant Nature
+Ability: Clear Body
+EVs: 152 HP / 152 Atk / 6 SpA / 200 SpD
+- Earthquake
+- Metal Claw
+- Toxic
+- Iron Defense
+|Regice @ Chesto Berry
+Level: 50
+Modest Nature
+Ability: Clear Body
+EVs: 106 HP / 152 Def / 100 SpA / 152 SpD
+- Ice Beam
+- Amnesia
+- Thunder
+- Rest
+|Raikou @ Lum Berry
+Level: 50
+Modest Nature
+Ability: Pressure
+EVs: 158 HP / 252 Def / 100 Spe
+- Thunderbolt
+- Calm Mind
+- Reflect
+- Rest
+|Latios @ Bright Powder
+Level: 50
+Modest Nature
+Ability: Levitate
+EVs: 252 HP / 252 Def / 6 Spe
+- Dragon Claw
+- Calm Mind
+- Psychic
+- Recover
+|Snorlax @ Chesto Berry
+Level: 50
+Adamant Nature
+Ability: Thick Fat
+EVs: 252 HP / 252 Atk / 6 SpA
+- Return
+- Rest
+- Shadow Ball
+- Curse
+|Rampardos @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Mold Breaker
+- Stone Edge
+- Superpower
+- Earthquake
+- Avalanche
+|Probopass @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stealth Rock
+- Earth Power
+- Discharge
+- Pain Split
+|Archeops @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Defeatist
+- Stone Edge
+- Earthquake
+- Focus Blast
+- Quick Attack
+|Crustle @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Rock Slide
+- X-Scissor
+- Solar Beam
+- Shell Smash
+|Golem @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Earthquake
+- Sucker Punch
+- Explosion
+|Relicanth @ Liechi Berry
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Head Smash
+- Waterfall
+- Rock Polish
+- Yawn
+|Roserade @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Poison Point
+- Petal Dance
+- Weather Ball
+- Shadow Ball
+- Sludge Bomb
+|Tropius @ Heat Rock
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Solar Beam
+- Air Slash
+- Synthesis
+- Sunny Day
+|Breloom @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Effect Spore
+- Spore
+- Stone Edge
+- Drain Punch
+- Mach Punch
+|Tangrowth @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Power Whip
+- Earthquake
+- Sludge Bomb
+- Focus Blast
+|Leafeon @ Yache Berry
+Level: 50
+Hardy Nature
+Ability: Leaf Guard
+- Leaf Blade
+- X-Scissor
+- Quick Attack
+- Swords Dance
+|Torterra @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Wood Hammer
+- Earthquake
+- Outrage
+- Stone Edge
+|Lucario @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Steadfast
+- Close Combat
+- Ice Punch
+- Extreme Speed
+- Swords Dance
+|Infernape @ Fire Gem
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Close Combat
+- Mach Punch
+- Flare Blitz
+- Bulk Up
+|Toxicroak @ Payapa Berry
+Level: 50
+Hardy Nature
+Ability: Anticipation
+- Sucker Punch
+- Drain Punch
+- Substitute
+- Bulk Up
+|Gallade @ Coba Berry
+Level: 50
+Hardy Nature
+Ability: Steadfast
+- Leaf Blade
+- Psycho Cut
+- Close Combat
+- Bulk Up
+|Medicham @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Pure Power
+- Ice Punch
+- Zen Headbutt
+- Thunder Punch
+- High Jump Kick
+|Machamp @ Scope Lens
+Level: 50
+Hardy Nature
+Ability: No Guard
+- Cross Chop
+- Stone Edge
+- Ice Punch
+- Bullet Punch
+|Floatzel @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Aqua Jet
+- Ice Punch
+- Focus Blast
+- Bulk Up
+|Empoleon @ Petaya Berry
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Surf
+- Blizzard
+- Grass Knot
+- Feather Dance
+|Ludicolo @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Giga Drain
+- Rain Dance
+- Hydro Pump
+- Focus Energy
+|Gastrodon @ Rindo Berry
+Level: 50
+Hardy Nature
+Ability: Storm Drain
+- Surf
+- Earth Power
+- Blizzard
+- Counter
+|Poliwrath @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Water Absorb
+- Ice Punch
+- Waterfall
+- Focus Punch
+- Hypnosis
+|Gyarados @ Wacan Berry
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Earthquake
+- Aqua Tail
+- Dragon Dance
+- Outrage
+|Drifblim @ Flame Orb
+Level: 68
+Hardy Nature
+Ability: Flare Boost
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Strength Sap
+|Banette @ Iron Ball
+Level: 65
+Hardy Nature
+Ability: Cursed Body
+- Trick
+- Shadow Sneak
+- Sucker Punch
+- Payback
+|Dusknoir @ Sitrus Berry
+Level: 70
+Hardy Nature
+Ability: Pressure
+- Shadow Sneak
+- Will-O-Wisp
+- Earthquake
+- Confuse Ray
+|Mismagius @ Expert Belt
+Level: 70
+Hardy Nature
+Ability: Levitate
+- Shadow Ball
+- Energy Ball
+- Mystical Fire
+- Dazzling Gleam
+|Froslass
+Level: 72
+Hardy Nature
+Ability: Cursed Body
+- Hex
+- Frost Breath
+- Will-O-Wisp
+- Destiny Bond
+|Gengar @ Life Orb
+Level: 72
+Hardy Nature
+Ability: Cursed Body
+- Hex
+- Sludge Bomb
+- Focus Blast
+- Toxic
+|Bastiodon @ Air Balloon
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Metal Burst
+- Fire Blast
+- Iron Defense
+- Stealth Rock
+|Excadrill @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Sand Rush
+- X-Scissor
+- Earthquake
+- Submission
+- Rock Slide
+|Bronzong @ Iron Ball
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Gyro Ball
+- Zen Headbutt
+- Earthquake
+- Trick Room
+|Magnezone @ Shuca Berry
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Explosion
+- Protect
+- Reflect
+- Mirror Coat
+|Aggron @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Iron Head
+- Fire Punch
+- Head Smash
+- Dragon Rush
+|Forretress @ Light Clay
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Gyro Ball
+- Earthquake
+- Reflect
+- Stealth Rock
+|Froslass @ Petaya Berry
+Level: 50
+Hardy Nature
+Ability: Snow Cloak
+- Blizzard
+- Shadow Ball
+- Psychic
+- Hail
+|Abomasnow @ Occa Berry
+Level: 50
+Hardy Nature
+Ability: Snow Warning
+- Blizzard
+- Wood Hammer
+- Earthquake
+- Ingrain
+|Weavile @ Chople Berry
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Ice Punch
+- Brick Break
+- Night Slash
+- Torment
+|Glaceon @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Snow Cloak
+- Blizzard
+- Shadow Ball
+- Signal Beam
+- Ice Shard
+|Mamoswine @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Snow Cloak
+- Icicle Crash
+- Bulldoze
+- Superpower
+- Rock Tomb
+|Glalie @ Rock Gem
+Level: 50
+Hardy Nature
+Ability: Ice Body
+- Blizzard
+- Crunch
+- Rollout
+- Hail
+|Pelipper @ Damp Rock
+Level: 70
+Hardy Nature
+Ability: Drizzle
+- Hydro Pump
+- Hurricane
+- Ice Beam
+- U-turn
+|Raichu @ Choice Scarf
+Level: 70
+Hardy Nature
+Ability: Static
+- Thunder
+- Surf
+- Focus Blast
+- Volt Switch
+|Luxray @ Focus Sash
+Level: 70
+Hardy Nature
+Ability: Intimidate
+- Ice Fang
+- Play Rough
+- Volt Switch
+- Electric Terrain
+|Lanturn @ Expert Belt
+Level: 66
+Hardy Nature
+Ability: Volt Absorb
+- Thunder
+- Surf
+- Ice Beam
+- Volt Switch
+|Jolteon @ Toxic Orb
+Level: 68
+Hardy Nature
+Ability: Quick Feet
+- Thunder
+- Shadow Ball
+- Reflect
+- Volt Switch
+|Electivire @ Life Orb
+Level: 75
+Hardy Nature
+Ability: Motor Drive
+- Thunder
+- Flamethrower
+- Cross Chop
+- Earthquake
+|Yanmega @ Wise Glasses
+Level: 75
+Hardy Nature
+Ability: Speed Boost
+- Bug Buzz
+- Air Slash
+- Detect
+- Ancient Power
+|Scizor @ Occa Berry
+Level: 75
+Hardy Nature
+Ability: Technician
+- Bullet Punch
+- X-Scissor
+- Night Slash
+- Swords Dance
+|Vespiquen @ Sitrus Berry
+Level: 77
+Hardy Nature
+Ability: Unnerve
+- Power Gem
+- Aerial Ace
+- Attack Order
+- Defend Order
+|Heracross @ Flame Orb
+Level: 77
+Hardy Nature
+Ability: Guts
+- Earthquake
+- Rock Slide
+- Facade
+- Close Combat
+|Flygon @ Wise Glasses
+Level: 75
+Hardy Nature
+Ability: Levitate
+- Dragon Pulse
+- Earth Power
+- Boomburst
+- Bug Buzz
+|Drapion @ Scope Lens
+Level: 79
+Hardy Nature
+Ability: Sniper
+- Cross Poison
+- Night Slash
+- Earthquake
+- X-Scissor
+|Whiscash @ Rindo Berry
+Level: 76
+Hardy Nature
+Ability: Hydration
+- Earthquake
+- Ice Beam
+- Scald
+- Zen Headbutt
+|Gliscor @ Sitrus Berry
+Level: 79
+Hardy Nature
+Ability: Hyper Cutter
+- Earthquake
+- Thunder Fang
+- Guillotine
+- X-Scissor
+|Nidoking @ Liechi Berry
+Level: 78
+Hardy Nature
+Ability: Sheer Force
+- Sludge Bomb
+- Earth Power
+- Thunderbolt
+- Ice Beam
+|Hippowdon @ Chesto Berry
+Level: 78
+Hardy Nature
+Ability: Sand Stream
+- Ice Fang
+- Earthquake
+- Crunch
+- Rest
+|Mamoswine @ Never-Melt Ice
+Level: 78
+Hardy Nature
+Ability: Thick Fat
+- Earthquake
+- Icicle Spear
+- Ice Shard
+- Double-Edge
+|Rhyperior @ Muscle Band
+Level: 81
+Hardy Nature
+Ability: Solid Rock
+- Earthquake
+- Rock Wrecker
+- Megahorn
+- Thunder Fang
+|Ninetales @ Heat Rock
+Level: 78
+Hardy Nature
+Ability: Drought
+- Flamethrower
+- Solar Beam
+- Hypnosis
+- Nasty Plot
+|Houndoom @ Wise Glasses
+Level: 78
+Hardy Nature
+Ability: Unnerve
+- Flamethrower
+- Dark Pulse
+- Destiny Bond
+- Nasty Plot
+|Rapidash @ Wide Lens
+Level: 79
+Hardy Nature
+Ability: Flame Body
+- Flare Blitz
+- Poison Jab
+- Iron Tail
+- Hypnosis
+|Infernape @ Focus Sash
+Level: 81
+Hardy Nature
+Ability: Iron Fist
+- Fire Punch
+- Thunder Punch
+- Close Combat
+- Mach Punch
+|Arcanine @ Shuca Berry
+Level: 81
+Hardy Nature
+Ability: Intimidate
+- Flare Blitz
+- Play Rough
+- Close Combat
+- Extreme Speed
+|Magmortar @ Sitrus Berry
+Level: 83
+Hardy Nature
+Ability: Flame Body
+- Fire Blast
+- Thunderbolt
+- Focus Blast
+- Psychic
+|Mr. Mime @ Light Clay
+Level: 79
+Hardy Nature
+Ability: Filter
+- Light Screen
+- Reflect
+- Psychic
+- Dazzling Gleam
+|Espeon @ Mental Herb
+Level: 81
+Hardy Nature
+Ability: Magic Bounce
+- Psychic
+- Dazzling Gleam
+- Shadow Ball
+- Light Screen
+|Bronzong @ Muscle Band
+Level: 80
+Hardy Nature
+Ability: Levitate
+- Gyro Ball
+- Earthquake
+- Payback
+- Rock Slide
+|Alakazam @ Life Orb
+Level: 82
+Hardy Nature
+Ability: Magic Guard
+- Nasty Plot
+- Shock Wave
+- Psychic
+- Dazzling Gleam
+|Slowbro @ Leftovers
+Level: 82
+Hardy Nature
+Ability: Regenerator
+- Scald
+- Psychic
+- Flamethrower
+- Slack Off
+|Gallade @ Sitrus Berry
+Level: 85
+Hardy Nature
+Ability: Justified
+- Close Combat
+- Psycho Cut
+- Shadow Sneak
+- Poison Jab
+|Spiritomb @ Sitrus Berry
+Level: 84
+Hardy Nature
+Ability: Pressure
+- Shadow Ball
+- Dark Pulse
+- Will-O-Wisp
+- Sucker Punch
+|Porygon-Z @ Eviolite
+Level: 85
+Hardy Nature
+Ability: Adaptability
+- Hyper Beam
+- Shadow Ball
+- Ice Beam
+- Thunderbolt
+|Togekiss @ Leftovers
+Level: 86
+Hardy Nature
+Ability: Serene Grace
+- Air Slash
+- Dazzling Gleam
+- Aura Sphere
+- Thunder Wave
+|Lucario @ Focus Sash
+Level: 86
+Hardy Nature
+Ability: Inner Focus
+- Close Combat
+- Meteor Mash
+- Earthquake
+- Extreme Speed
+|Milotic @ Flame Orb
+Level: 84
+Hardy Nature
+Ability: Marvel Scale
+- Recover
+- Mirror Coat
+- Ice Beam
+- Scald
+|Garchomp @ Yache Berry
+Level: 100
+Hardy Nature
+Ability: Rough Skin
+- Dragon Claw
+- Swords Dance
+- Poison Jab
+- Earthquake
+|Zapdos @ Bright Powder
+Level: 50
+Modest Nature
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+- Thunderbolt
+- Air Cutter
+- Heat Wave
+- Signal Beam
+|Blaziken @ White Herb
+Level: 50
+Adamant Nature
+Ability: Blaze
+EVs: 252 Atk / 252 Spe
+- Flare Blitz
+- Superpower
+- Thunder Punch
+- Night Slash
+|Togekiss @ Expert Belt
+Level: 50
+Modest Nature
+Ability: Serene Grace
+EVs: 252 SpA / 52 Spe
+- Air Slash
+- Aura Sphere
+- Psychic
+- Hyper Beam
+|Entei @ Shuca Berry
+Level: 50
+Modest Nature
+Ability: Pressure
+EVs: 252 SpA / 252 Spe
+- Overheat
+- Extrasensory
+- Shadow Ball
+- Calm Mind
+|Empoleon @ Quick Claw
+Level: 50
+Hardy Nature
+Ability: Torrent
+EVs: 252 Atk / 252 SpA
+- Surf
+- Earthquake
+- Blizzard
+- Signal Beam
+|Gallade @ Scope Lens
+Level: 50
+Adamant Nature
+Ability: Steadfast
+EVs: 252 Atk / 252 SpD
+- Psycho Cut
+- Close Combat
+- Leaf Blade
+- Night Slash
+|Regigigas @ Bright Powder
+Level: 50
+Hardy Nature
+Ability: Slow Start
+EVs: 252 HP / 252 Atk
+- Crush Grip
+- Earthquake
+- Stone Edge
+- Drain Punch
+|Heatran @ Focus Sash
+Level: 50
+Quiet Nature
+Ability: Flash Fire
+EVs: 252 Atk / 252 SpA
+- Magma Storm
+- Flash Cannon
+- Earth Power
+- Explosion
+|Cresselia @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Levitate
+EVs: 170 HP / 170 Def / 170 SpD
+- Psychic
+- Ice Beam
+- Signal Beam
+- Moonlight
+|Simisage @ Grass Gem
+Level: 50
+Hardy Nature
+Ability: Gluttony
+- Seed Bomb
+- Low Kick
+- Acrobatics
+- Crunch
+|Ferrothorn @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Iron Barbs
+- Power Whip
+- Gyro Ball
+- Bulldoze
+- Explosion
+|Serperior @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Leech Seed
+- Protect
+- Aerial Ace
+- Leaf Blade
+|Jumpluff @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Leech Seed
+- Cotton Guard
+- Giga Drain
+- Sleep Powder
+|Whimsicott @ Mental Herb
+Level: 50
+Hardy Nature
+Ability: Prankster
+- Giga Drain
+- Substitute
+- Hurricane
+- Leech Seed
+|Lilligant @ Miracle Seed
+Level: 50
+Hardy Nature
+Ability: Own Tempo
+- Petal Dance
+- Sleep Powder
+- Quiver Dance
+- Dream Eater
+|Simisear @ Fire Gem
+Level: 50
+Hardy Nature
+Ability: Gluttony
+- Overheat
+- Low Kick
+- Acrobatics
+- Crunch
+|Heatmor @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Gluttony
+- Fire Blast
+- Sucker Punch
+- Focus Blast
+- Sunny Day
+|Darmanitan @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Sheer Force
+- Flare Blitz
+- Hammer Arm
+- Stone Edge
+- U-turn
+|Arcanine @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Overheat
+- Solar Beam
+- Dragon Pulse
+- Extreme Speed
+|Camerupt @ Shuca Berry
+Level: 50
+Hardy Nature
+Ability: Solid Rock
+- Overheat
+- Earth Power
+- Stone Edge
+- Explosion
+|Emboar @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Flare Blitz
+- Wild Charge
+- Head Smash
+- Hammer Arm
+|Simipour @ Water Gem
+Level: 50
+Hardy Nature
+Ability: Gluttony
+- Hydro Pump
+- Low Kick
+- Acrobatics
+- Crunch
+|Simipour @ Water Gem
+Level: 50
+Hardy Nature
+Ability: Gluttony
+- Hydro Pump
+- Low Kick
+- Acrobatics
+- Crunch
+|Samurott @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Razor Shell
+- Megahorn
+- Aqua Jet
+- Revenge
+|Azumarill
+Level: 50
+Hardy Nature
+Ability: Huge Power
+- Aqua Tail
+- Aqua Jet
+- Superpower
+- Giga Impact
+|Slowking @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Blizzard
+- Psychic
+- Fire Blast
+- Nasty Plot
+|Seismitoad @ Rindo Berry
+Level: 50
+Hardy Nature
+Ability: Swift Swim
+- Hydro Pump
+- Poison Jab
+- Earth Power
+- Rain Dance
+|Watchog @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Keen Eye
+- Hypnosis
+- Confuse Ray
+- Super Fang
+- Flail
+|Braviary @ Power Herb
+Level: 50
+Hardy Nature
+Ability: Sheer Force
+- Superpower
+- U-turn
+- Tailwind
+- Sky Attack
+|Cinccino @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Technician
+- Focus Blast
+- Swift
+- Thunderbolt
+- Grass Knot
+|Kangaskhan @ Chople Berry
+Level: 50
+Hardy Nature
+Ability: Scrappy
+- Fake Out
+- Hammer Arm
+- Sucker Punch
+- Ice Punch
+|Sawsbuck @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Wild Charge
+- Jump Kick
+- Horn Leech
+- Megahorn
+|Lickilicky @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Own Tempo
+- Surf
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+|Leavanny @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Swords Dance
+- Aerial Ace
+- Leaf Blade
+- X-Scissor
+|Vespiquen @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Roost
+- Toxic
+- Defend Order
+- Attack Order
+|Crustle @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Earthquake
+- Shell Smash
+- Rock Blast
+- X-Scissor
+|Heracross @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Stone Edge
+- Shadow Claw
+- Megahorn
+- Close Combat
+|Accelgor @ Bright Powder
+Level: 50
+Hardy Nature
+Ability: Hydration
+- Double Team
+- Focus Blast
+- Bug Buzz
+- Giga Drain
+|Durant @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Guillotine
+- Stone Edge
+- Iron Head
+- X-Scissor
+|Zebstrika @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Motor Drive
+- Wild Charge
+- Overheat
+- Return
+- Quick Attack
+|Ampharos @ Shuca Berry
+Level: 50
+Hardy Nature
+Ability: Static
+- Focus Blast
+- Power Gem
+- Signal Beam
+- Discharge
+|Luxray @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Fire Fang
+- Wild Charge
+- Ice Fang
+- Quick Attack
+|Emolga @ Flying Gem
+Level: 50
+Hardy Nature
+Ability: Static
+- Wild Charge
+- U-turn
+- Acrobatics
+- Charm
+|Eelektross @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Brick Break
+- Thunder Punch
+- Fire Punch
+- Dragon Claw
+|Stunfisk @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Static
+- Earth Power
+- Foul Play
+- Scald
+- Discharge
+|Excadrill @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Sand Rush
+- Drill Run
+- Rock Slide
+- Submission
+- Swords Dance
+|Flygon @ Liechi Berry
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Earth Power
+- Fire Blast
+- Outrage
+- Stone Edge
+|Krokorok @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Earthquake
+- Aqua Tail
+- Rock Slide
+- Fire Fang
+|Seismitoad @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Poison Point
+- Grass Knot
+- Focus Blast
+- Earth Power
+- Hydro Pump
+|Mamoswine @ Ice Gem
+Level: 50
+Hardy Nature
+Ability: Oblivious
+- Fissure
+- Stone Edge
+- Ice Shard
+- Earthquake
+|Golurk @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Iron Fist
+- Shadow Punch
+- Substitute
+- Focus Punch
+- Earthquake
+|Swanna @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Big Pecks
+- Hurricane
+- Tailwind
+- Scald
+- Ice Beam
+|Jumpluff @ Flying Gem
+Level: 50
+Hardy Nature
+Ability: Leaf Guard
+- U-turn
+- Acrobatics
+- Bullet Seed
+- Sleep Powder
+|Drifblim @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Unburden
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Icy Wind
+|Archeops @ Sitrus Berry
+Level: 50
+Hardy Nature
+Ability: Defeatist
+- Acrobatics
+- Stone Edge
+- Earthquake
+- Dragon Claw
+|Braviary @ Whipped Dream
+Level: 50
+Hardy Nature
+Ability: Sheer Force
+- Brave Bird
+- Rock Slide
+- U-turn
+- Superpower
+|Mandibuzz @ Salac Berry
+Level: 50
+Hardy Nature
+Ability: Big Pecks
+- Dark Pulse
+- Nasty Plot
+- Air Slash
+- Roost
+|Cryogonal @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Ice Shard
+- Sheer Cold
+- Flash Cannon
+- Blizzard
+|Beartic @ Bright Powder
+Level: 50
+Hardy Nature
+Ability: Snow Cloak
+- Swords Dance
+- Substitute
+- Focus Punch
+- Icicle Crash
+|Vanilluxe @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Ice Body
+- Hail
+- Weather Ball
+- Protect
+- Petal Blizzard
+|Weavile @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Pressure
+- Night Slash
+- Fake Out
+- Brick Break
+- Ice Shard
+|Dewgong @ Life Orb
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Fake Out
+- Drill Run
+- Aqua Jet
+- Frost Breath
+|Walrein @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Thick Fat
+- Earthquake
+- Super Fang
+- Aqua Tail
+- Avalanche
+|Haxorus @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Rivalry
+- Outrage
+- Dragon Dance
+- Earthquake
+- Brick Break
+|Druddigon @ Rocky Helmet
+Level: 50
+Hardy Nature
+Ability: Rough Skin
+- Dragon Tail
+- Fire Fang
+- Rest
+- Glare
+|Hydreigon @ Choice Specs
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Dragon Pulse
+- Dark Pulse
+- Fire Blast
+- Focus Blast
+|Flygon @ Wide Lens
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Draco Meteor
+- Earth Power
+- U-turn
+- Fire Blast
+|Altaria @ Yache Berry
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Draco Meteor
+- Perish Song
+- Cotton Guard
+- Roost
+|Salamence @ White Herb
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Draco Meteor
+- Hydro Pump
+- Fire Blast
+- Tailwind
+|Liepard @ Sitrus Berry
+Level: 65
+Hardy Nature
+Ability: Unburden
+- Fake Out
+- Aerial Ace
+- Shadow Claw
+- Night Slash
+|Simisear @ Charcoal
+Level: 65
+Hardy Nature
+Ability: Gluttony
+- Flamethrower
+- Rock Slide
+- Brick Break
+- Payback
+|Unfezant @ Scope Lens
+Level: 65
+Hardy Nature
+Ability: Super Luck
+- U-turn
+- Quick Attack
+- Air Slash
+- Facade
+|Gigalith @ Leftovers
+Level: 65
+Hardy Nature
+Ability: Sturdy
+- Giga Impact
+- Stone Edge
+- Earthquake
+- Stealth Rock
+|Haxorus @ Dragon Gem
+Level: 65
+Hardy Nature
+Ability: Rivalry
+- Outrage
+- X-Scissor
+- Rock Slide
+- Surf
+|Serperior @ Focus Sash
+Level: 67
+Hardy Nature
+Ability: Overgrow
+- Coil
+- Dragon Tail
+- Leaf Blade
+- Leaf Storm
+|Scolipede @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Swarm
+- Poison Jab
+- Megahorn
+- Earthquake
+- Rock Slide
+|Toxicroak @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Anticipation
+- Protect
+- Drain Punch
+- Poison Jab
+- Swords Dance
+|Garbodor @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Weak Armor
+- Psychic
+- Thunderbolt
+- Focus Blast
+- Protect
+|Crobat @ Psychic Gem
+Level: 50
+Hardy Nature
+Ability: Inner Focus
+- Cross Poison
+- Brave Bird
+- Zen Headbutt
+- Tailwind
+|Drapion @ Scope Lens
+Level: 50
+Hardy Nature
+Ability: Battle Armor
+- Cross Poison
+- Night Slash
+- Ice Fang
+- Protect
+|Amoonguss @ Black Sludge
+Level: 50
+Hardy Nature
+Ability: Effect Spore
+- Foul Play
+- Spore
+- Giga Drain
+- Protect
+|Jellicent @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Cursed Body
+- Hydro Pump
+- Energy Ball
+- Shadow Ball
+- Psychic
+|Carracosta @ Lum Berry
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Rock Slide
+- Shell Smash
+- Aqua Jet
+- Waterfall
+|Starmie @ Focus Sash
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Thunder Wave
+- Reflect
+- Light Screen
+- Scald
+|Quagsire @ Ribbon Sweet
+Level: 50
+Hardy Nature
+Ability: Water Absorb
+- Stone Edge
+- Earthquake
+- Waterfall
+- Counter
+|Cloyster @ King's Rock
+Level: 50
+Hardy Nature
+Ability: Skill Link
+- Ice Shard
+- Icicle Spear
+- Rock Blast
+- Shell Smash
+|Wailord @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Water Veil
+- Water Spout
+- Blizzard
+- Bounce
+- Fissure
+|Cofagrigus @ Leftovers
+Level: 77
+Hardy Nature
+Ability: Mummy
+- Shadow Ball
+- Will-O-Wisp
+- Energy Ball
+- Psychic
+|Gengar @ Expert Belt
+Level: 77
+Hardy Nature
+Ability: Levitate
+- Shadow Ball
+- Focus Blast
+- Sludge Bomb
+- Dark Pulse
+|Froslass @ Wise Glasses
+Level: 77
+Hardy Nature
+Ability: Snow Cloak
+- Psychic
+- Shadow Ball
+- Blizzard
+- Ice Shard
+|Drifblim @ Flying Gem
+Level: 77
+Hardy Nature
+Ability: Unburden
+- Shadow Ball
+- Psychic
+- Acrobatics
+- Thunder
+|Golurk @ Muscle Band
+Level: 77
+Hardy Nature
+Ability: Iron Fist
+- Shadow Punch
+- Earthquake
+- Hammer Arm
+- Stone Edge
+|Chandelure @ Choice Scarf
+Level: 79
+Hardy Nature
+Ability: Flame Body
+- Fire Blast
+- Shadow Ball
+- Energy Ball
+- Psychic
+|Throh @ Focus Band
+Level: 77
+Hardy Nature
+Ability: Guts
+- Superpower
+- Stone Edge
+- Earthquake
+- Payback
+|Sawk @ Muscle Band
+Level: 77
+Hardy Nature
+Ability: Sturdy
+- Close Combat
+- Stone Edge
+- Retaliate
+- Poison Jab
+|Lucario @ Wise Glasses
+Level: 77
+Hardy Nature
+Ability: Steadfast
+- Aura Sphere
+- Dragon Pulse
+- Extreme Speed
+- Shadow Ball
+|Mienshao @ Eject Button
+Level: 77
+Hardy Nature
+Ability: Regenerator
+- High Jump Kick
+- Fake Out
+- Acrobatics
+- U-turn
+|Machamp @ Expert Belt
+Level: 77
+Hardy Nature
+Ability: No Guard
+- Dynamic Punch
+- Stone Edge
+- Dual Chop
+- Thunder Punch
+|Conkeldurr @ Flame Orb
+Level: 79
+Hardy Nature
+Ability: Sheer Force
+- Hammer Arm
+- Bulk Up
+- Stone Edge
+- Earthquake
+|Honchkrow @ Scope Lens
+Level: 77
+Hardy Nature
+Ability: Super Luck
+- Night Slash
+- Psychic
+- Aerial Ace
+- Crunch
+|Scrafty @ Leftovers
+Level: 77
+Hardy Nature
+Ability: Moxie
+- High Jump Kick
+- Head Smash
+- Crunch
+- Poison Jab
+|Krookodile @ Muscle Band
+Level: 77
+Hardy Nature
+Ability: Intimidate
+- Rock Slide
+- Earthquake
+- Crunch
+- Outrage
+|Bisharp @ Quick Claw
+Level: 79
+Hardy Nature
+Ability: Defiant
+- Guillotine
+- Night Slash
+- X-Scissor
+- Aerial Ace
+|Tyranitar @ Focus Band
+Level: 77
+Hardy Nature
+Ability: Sand Stream
+- Dark Pulse
+- Stone Edge
+- Fire Blast
+- Earthquake
+|Bisharp @ Quick Claw
+Level: 79
+Hardy Nature
+Ability: Defiant
+- Guillotine
+- Night Slash
+- X-Scissor
+- Aerial Ace
+|Musharna @ Zoom Lens
+Level: 77
+Hardy Nature
+Ability: Synchronize
+- Reflect
+- Charge Beam
+- Dream Eater
+- Hypnosis
+|Alakazam @ Expert Belt
+Level: 77
+Hardy Nature
+Ability: Synchronize
+- Shadow Ball
+- Focus Blast
+- Psychic
+- Charge Beam
+|Gothitelle @ Wise Glasses
+Level: 77
+Hardy Nature
+Ability: Frisk
+- Psychic
+- Flatter
+- Shadow Ball
+- Thunderbolt
+|Gallade @ Muscle Band
+Level: 77
+Hardy Nature
+Ability: Steadfast
+- Close Combat
+- Night Slash
+- Leaf Blade
+- Psycho Cut
+|Reuniclus @ Leftovers
+Level: 77
+Hardy Nature
+Ability: Magic Guard
+- Psychic
+- Thunder
+- Recover
+- Focus Blast
+|Metagross @ Life Orb
+Level: 79
+Hardy Nature
+Ability: Clear Body
+- Zen Headbutt
+- Bullet Punch
+- Earthquake
+- Hammer Arm
+|Zekrom
+Level: 52
+Hardy Nature
+Ability: Teravolt
+- Fusion Bolt
+- Zen Headbutt
+- Giga Impact
+- Light Screen
+|Carracosta
+Level: 50
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Aqua Jet
+- Crunch
+- Waterfall
+|Vanilluxe
+Level: 50
+Hardy Nature
+Ability: Ice Body
+- Blizzard
+- Hail
+- Flash Cannon
+- Frost Breath
+|Archeops
+Level: 50
+Hardy Nature
+Ability: Defeatist
+- Stone Edge
+- Acrobatics
+- Dragon Claw
+- Crunch
+|Zoroark
+Level: 50
+Hardy Nature
+Ability: Illusion
+- Flamethrower
+- Focus Blast
+- Night Slash
+- Retaliate
+|Klinklang
+Level: 50
+Hardy Nature
+Ability: Plus
+- Flash Cannon
+- Metal Sound
+- Hyper Beam
+- Thunderbolt
+|Volcarona @ Charti Berry
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Quiver Dance
+- Heat Wave
+- Bug Buzz
+- Psychic
+|Conkeldurr @ Life Orb
+Level: 50
+Hardy Nature
+Ability: No Guard
+- Hammer Arm
+- Mach Punch
+- Payback
+- Stone Edge
+|Reuniclus @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Overcoat
+- Light Screen
+- Reflect
+- Toxic
+- Psychic
+|Krookodile @ Expert Belt
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+|Chandelure @ Choice Scarf
+Level: 50
+Hardy Nature
+Ability: Flame Body
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+- Psychic
+|Braviary @ Choice Band
+Level: 50
+Hardy Nature
+Ability: Sheer Force
+- Brave Bird
+- Superpower
+- Rock Slide
+- U-turn
+|Hydreigon @ Wise Glasses
+Level: 81
+Hardy Nature
+Ability: Levitate
+- Fire Blast
+- Focus Blast
+- Dragon Pulse
+- Surf
+|Salamence @ Life Orb
+Level: 81
+Hardy Nature
+Ability: Intimidate
+- Fire Blast
+- Earthquake
+- Draco Meteor
+- Crunch
+|Archeops @ Flying Gem
+Level: 81
+Hardy Nature
+Ability: Defeatist
+- Acrobatics
+- Dragon Claw
+- Endeavor
+- Stone Edge
+|Aggron @ Muscle Band
+Level: 81
+Hardy Nature
+Ability: Rock Head
+- Earthquake
+- Double-Edge
+- Head Smash
+- Autotomize
+|Lapras @ Zoom Lens
+Level: 81
+Hardy Nature
+Ability: Water Absorb
+- Hydro Pump
+- Blizzard
+- Thunder
+- Sing
+|Haxorus @ Focus Sash
+Level: 83
+Hardy Nature
+Ability: Mold Breaker
+- Earthquake
+- Guillotine
+- Outrage
+- Dragon Dance
+|Cofagrigus @ Leftovers
+Level: 50
+Hardy Nature
+Ability: Mummy
+- Shadow Ball
+- Psychic
+- Protect
+- Toxic
+|Seismitoad
+Level: 50
+Hardy Nature
+Ability: Poison Touch
+- Muddy Water
+- Earthquake
+- Drain Punch
+- Sludge Wave
+|Eelektross
+Level: 50
+Hardy Nature
+Ability: Levitate
+- Thunderbolt
+- Acrobatics
+- Flamethrower
+- Crunch
+|Drapion
+Level: 50
+Hardy Nature
+Ability: Sniper
+- Night Slash
+- Earthquake
+- Poison Fang
+- X-Scissor
+|Toxicroak
+Level: 50
+Hardy Nature
+Ability: Anticipation
+- Brick Break
+- Shadow Ball
+- Sucker Punch
+- Poison Jab
+|Hydreigon @ Life Orb
+Level: 52
+Hardy Nature
+Ability: Levitate
+- Dragon Rush
+- Crunch
+- Rock Slide
+- Frustration
+|Masquerain
+Level: 70
+Hardy Nature
+Ability: Intimidate
+- Air Slash
+- Whirlwind
+- Bug Buzz
+- Quiver Dance
+|Vivillon
+Level: 70
+Hardy Nature
+Ability: Unaware
+- Safeguard
+- Quiver Dance
+- Hurricane
+- Powder
+|Aurorus
+Level: 70
+Hardy Nature
+Ability: Refrigerate
+- Encore
+- Light Screen
+- Ice Beam
+- Hyper Beam
+|Tyrantrum
+Level: 70
+Hardy Nature
+Ability: Strong Jaw
+- Earthquake
+- Head Smash
+- Horn Drill
+- Rock Slide
+|Hawlucha
+Level: 70
+Hardy Nature
+Ability: Unburden
+- High Jump Kick
+- Sky Attack
+- Sky Drop
+- Swords Dance
+|Lucario
+Level: 70
+Hardy Nature
+Ability: Steadfast
+- Heal Pulse
+- Close Combat
+- Dragon Pulse
+- Extreme Speed
+|Victreebel
+Level: 70
+Hardy Nature
+Ability: Chlorophyll
+- Razor Leaf
+- Leaf Tornado
+- Leaf Storm
+- Leaf Blade
+|Gogoat
+Level: 70
+Hardy Nature
+Ability: Sap Sipper
+- Leaf Blade
+- Milk Drink
+- Earthquake
+- Aerial Ace
+|Magnezone
+Level: 70
+Hardy Nature
+Ability: Sturdy
+- Discharge
+- Lock-On
+- Magnet Rise
+- Gyro Ball
+|Heliolisk
+Level: 70
+Hardy Nature
+Ability: Sand Veil
+- Quick Attack
+- Thunder
+- Charge
+- Parabolic Charge
+|Mawile
+Level: 70
+Hardy Nature
+Ability: Hyper Cutter
+- Swallow
+- Spit Up
+- Iron Head
+- Play Rough
+|Sylveon
+Level: 70
+Hardy Nature
+Ability: Cute Charm
+- Light Screen
+- Moonblast
+- Last Resort
+- Psych Up
+|Sigilyph
+Level: 44
+Hardy Nature
+Ability: Magic Guard
+- Psychic
+- Air Slash
+- Reflect
+- Light Screen
+|Slowking
+Level: 45
+Hardy Nature
+Ability: Oblivious
+- Psychic
+- Calm Mind
+- Power Gem
+- Yawn
+|Meowstic-F
+Level: 48
+Hardy Nature
+Ability: Infiltrator
+- Psychic
+- Fake Out
+- Calm Mind
+- Shadow Ball
+|Abomasnow
+Level: 56
+Hardy Nature
+Ability: Snow Warning
+- Ice Beam
+- Energy Ball
+- Ice Shard
+|Cryogonal
+Level: 55
+Hardy Nature
+Ability: Levitate
+- Ice Beam
+- Hail
+- Flash Cannon
+- Confuse Ray
+|Avalugg
+Level: 59
+Hardy Nature
+Ability: Ice Body
+- Avalanche
+- Curse
+- Crunch
+- Gyro Ball
+|Pyroar
+Level: 63
+Hardy Nature
+Ability: Rivalry
+- Hyper Voice
+- Flamethrower
+- Wild Charge
+- Noble Roar
+|Torkoal
+Level: 63
+Hardy Nature
+Ability: White Smoke
+- Curse
+- Earthquake
+- Stone Edge
+- Flame Wheel
+|Chandelure
+Level: 63
+Hardy Nature
+Ability: Flame Body
+- Flamethrower
+- Shadow Ball
+- Confuse Ray
+- Confide
+|Talonflame
+Level: 65
+Hardy Nature
+Ability: Flame Body
+- Brave Bird
+- Quick Attack
+- Flare Blitz
+- Flail
+|Clawitzer
+Level: 63
+Hardy Nature
+Ability: Mega Launcher
+- Water Pulse
+- Dark Pulse
+- Dragon Pulse
+- Aura Sphere
+|Gyarados
+Level: 63
+Hardy Nature
+Ability: Intimidate
+- Waterfall
+- Ice Fang
+- Earthquake
+- Dragon Dance
+|Starmie
+Level: 63
+Hardy Nature
+Ability: Illuminate
+- Dazzling Gleam
+- Psychic
+- Surf
+- Light Screen
+|Barbaracle
+Level: 65
+Hardy Nature
+Ability: Tough Claws
+- Cross Chop
+- Stone Edge
+- Razor Shell
+- X-Scissor
+|Klefki
+Level: 63
+Hardy Nature
+Ability: Prankster
+- Dazzling Gleam
+- Flash Cannon
+- Torment
+- Spikes
+|Probopass
+Level: 63
+Hardy Nature
+Ability: Sturdy
+- Earth Power
+- Power Gem
+- Discharge
+- Flash Cannon
+|Scizor
+Level: 63
+Hardy Nature
+Ability: Technician
+- Bullet Punch
+- X-Scissor
+- Iron Head
+- Night Slash
+|Aegislash-Shield
+Level: 65
+Hardy Nature
+Ability: Stance Change
+- King's Shield
+- Sacred Sword
+- Shadow Claw
+- Iron Head
+|Dragalge
+Level: 63
+Hardy Nature
+Ability: Poison Point
+- Dragon Pulse
+- Surf
+- Sludge Bomb
+- Thunderbolt
+|Druddigon
+Level: 63
+Hardy Nature
+Ability: Rough Skin
+- Dragon Tail
+- Revenge
+- Retaliate
+- Chip Away
+|Altaria
+Level: 63
+Hardy Nature
+Ability: Natural Cure
+- Moonblast
+- Dragon Pulse
+- Cotton Guard
+- Sing
+|Noivern
+Level: 65
+Hardy Nature
+Ability: Frisk
+- Air Slash
+- Dragon Pulse
+- Flamethrower
+- Super Fang
+|Hawlucha
+Level: 64
+Hardy Nature
+Ability: Limber
+- Swords Dance
+- Flying Press
+- X-Scissor
+- Poison Jab
+|Tyrantrum
+Level: 65
+Hardy Nature
+Ability: Strong Jaw
+- Head Smash
+- Earthquake
+- Dragon Claw
+- Crunch
+|Aurorus
+Level: 65
+Hardy Nature
+Ability: Refrigerate
+- Thunder
+- Blizzard
+- Light Screen
+- Reflect
+|Gourgeist
+Level: 65
+Hardy Nature
+Ability: Pickup
+- Trick-or-Treat
+- Phantom Force
+- Seed Bomb
+- Shadow Sneak
+|Goodra
+Level: 66
+Hardy Nature
+Ability: Sap Sipper
+- Dragon Pulse
+- Muddy Water
+- Fire Blast
+- Focus Blast
+|Gardevoir
+Level: 68
+Hardy Nature
+Ability: Trace
+- Moonblast
+- Psychic
+- Shadow Ball
+- Thunderbolt
+|Hariyama
+Level: 63
+Hardy Nature
+Ability: Thick Fat
+- Fake Out
+- Close Combat
+- Knock Off
+- Heavy Slam
+|Machamp
+Level: 63
+Hardy Nature
+Ability: Guts
+- Cross Chop
+- Thunder Punch
+- Ice Punch
+- Fire Punch
+|Bewear
+Level: 63
+Hardy Nature
+Ability: Fluffy
+- Hammer Arm
+- Brutal Swing
+- Dragon Claw
+- Shadow Claw
+|Poliwrath
+Level: 63
+Hardy Nature
+Ability: Water Absorb
+- Waterfall
+- Brick Break
+- Poison Jab
+- Payback
+|Crabominable
+Level: 63
+Hardy Nature
+Ability: Iron Fist
+- Ice Hammer
+- Close Combat
+- Stone Edge
+- Earthquake
+|Armaldo
+Level: 66
+Hardy Nature
+Ability: Battle Armor
+- Crush Claw
+- X-Scissor
+- Stone Edge
+- Liquidation
+|Cradily
+Level: 66
+Hardy Nature
+Ability: Suction Cups
+- Stone Edge
+- Seed Bomb
+- Sludge Wave
+- Earth Power
+|Gigalith
+Level: 66
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Iron Head
+- Earthquake
+- Throat Chop
+|Probopass
+Level: 66
+Hardy Nature
+Ability: Sturdy
+- Earth Power
+- Dazzling Gleam
+- Power Gem
+- Flash Cannon
+|Lycanroc-Midnight
+Level: 66
+Hardy Nature
+Ability: Keen Eye
+- Crunch
+- Fire Punch
+- Stone Edge
+- Rock Climb
+|Sableye
+Level: 63
+Hardy Nature
+Ability: Keen Eye
+- Power Gem
+- Shadow Ball
+- Dark Pulse
+- Toxic
+|Krookodile
+Level: 63
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Aerial Ace
+- Dragon Claw
+- Earthquake
+|Honchkrow
+Level: 63
+Hardy Nature
+Ability: Insomnia
+- Aerial Ace
+- Sucker Punch
+- Psychic
+- Snarl
+|Absol
+Level: 63
+Hardy Nature
+Ability: Super Luck
+- Psycho Cut
+- Sucker Punch
+- Aerial Ace
+- Night Slash
+|Persian-Alola
+Level: 63
+Hardy Nature
+Ability: Fur Coat
+- Power Gem
+- Fake Out
+- Dark Pulse
+- Thunderbolt
+|Golurk
+Level: 68
+Hardy Nature
+Ability: No Guard
+- Drain Punch
+- Earthquake
+- Phantom Force
+- Stone Edge
+|Gastrodon
+Level: 68
+Hardy Nature
+Ability: Sticky Hold
+- Muddy Water
+- Mud Bomb
+- Sludge Wave
+- Ice Beam
+|Krookodile
+Level: 68
+Hardy Nature
+Ability: Intimidate
+- Earthquake
+- Crunch
+- Dragon Claw
+- Aerial Ace
+|Flygon
+Level: 68
+Hardy Nature
+Ability: Levitate
+- Dragon Rush
+- Earthquake
+- Stone Edge
+- Steel Wing
+|Mudsdale
+Level: 69
+Hardy Nature
+Ability: Own Tempo
+- Heavy Slam
+- Earthquake
+- Payback
+- Rock Slide
+|Gumshoos
+Level: 60
+Hardy Nature
+Ability: Stakeout
+- Crunch
+- Hyper Fang
+- Super Fang
+|Smeargle
+Level: 60
+Hardy Nature
+Ability: Technician
+- Extreme Speed
+- Fire Blast
+- Hydro Pump
+- Power Whip
+|Komala
+Level: 60
+Hardy Nature
+Ability: Comatose
+- Sucker Punch
+- Wood Hammer
+- Slam
+- Zen Headbutt
+|Lanturn
+Level: 60
+Hardy Nature
+Ability: Volt Absorb
+- Discharge
+- Hydro Pump
+- Thunder Wave
+- Icy Wind
+|Cloyster
+Level: 60
+Hardy Nature
+Ability: Skill Link
+- Spike Cannon
+- Icicle Crash
+- Smart Strike
+- Spikes
+|Araquanid
+Level: 60
+Hardy Nature
+Ability: Water Bubble
+- Liquidation
+- Crunch
+- Leech Life
+- Frost Breath
+|Arcanine
+Level: 60
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Flare Blitz
+- Extreme Speed
+|Talonflame
+Level: 60
+Hardy Nature
+Ability: Flame Body
+- Quick Attack
+- Flare Blitz
+- Brave Bird
+|Marowak-Alola
+Level: 60
+Hardy Nature
+Ability: Cursed Body
+- Flare Blitz
+- Shadow Bone
+- Bone Rush
+|Trevenant
+Level: 60
+Hardy Nature
+Ability: Natural Cure
+- Horn Leech
+- Shadow Claw
+- Leech Seed
+|Shiinotic
+Level: 60
+Hardy Nature
+Ability: Effect Spore
+- Moonblast
+- Giga Drain
+- Spore
+- Ingrain
+|Tsareena
+Level: 60
+Hardy Nature
+Ability: Leaf Guard
+- Power Whip
+- Zen Headbutt
+- High Jump Kick
+- U-turn
+|Togedemaru
+Level: 67
+Hardy Nature
+Ability: Iron Barbs
+- Electric Terrain
+- Zing Zap
+- Spiky Shield
+- Fell Stinger
+|Magnezone
+Level: 67
+Hardy Nature
+Ability: Analytic
+- Flash Cannon
+- Discharge
+- Reflect
+- Tri Attack
+|Electivire
+Level: 67
+Hardy Nature
+Ability: Motor Drive
+- Thunder Punch
+- Giga Impact
+- Fire Punch
+- Quick Attack
+|Vikavolt
+Level: 67
+Hardy Nature
+Ability: Levitate
+- Bug Buzz
+- Thunderbolt
+- Air Slash
+- Guillotine
+|Golem-Alola
+Level: 67
+Hardy Nature
+Ability: Sturdy
+- Stone Edge
+- Steamroller
+- Thunder Punch
+- Heavy Slam
+|Klefki
+Level: 61
+Hardy Nature
+Ability: Prankster
+- Dazzling Gleam
+- Reflect
+- Light Screen
+- Flash Cannon
+|Granbull
+Level: 61
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Play Rough
+- Earthquake
+- Stone Edge
+|Shiinotic
+Level: 61
+Hardy Nature
+Ability: Effect Spore
+- Spore
+- Dream Eater
+- Moonblast
+- Giga Drain
+|Wigglytuff
+Level: 61
+Hardy Nature
+Ability: Competitive
+- Dazzling Gleam
+- Hyper Voice
+- Flamethrower
+- Ice Beam
+|Ribombee
+Level: 61
+Hardy Nature
+Ability: Shield Dust
+- Pollen Puff
+- Dazzling Gleam
+- Psychic
+- Energy Ball
+|Klefki
+Level: 66
+Hardy Nature
+Ability: Prankster
+- Spikes
+- Thunder Wave
+- Flash Cannon
+- Reflect
+|Bisharp
+Level: 66
+Hardy Nature
+Ability: Defiant
+- Night Slash
+- Iron Head
+- X-Scissor
+- Poison Jab
+|Magnezone
+Level: 66
+Hardy Nature
+Ability: Sturdy
+- Flash Cannon
+- Thunderbolt
+- Tri Attack
+- Signal Beam
+|Metagross
+Level: 66
+Hardy Nature
+Ability: Clear Body
+- Hammer Arm
+- Bullet Punch
+- Meteor Mash
+- Zen Headbutt
+|Dugtrio-Alola
+Level: 66
+Hardy Nature
+Ability: Tangling Hair
+- Earthquake
+- Sucker Punch
+- Iron Head
+- Stone Edge
+|Banette
+Level: 66
+Hardy Nature
+Ability: Insomnia
+- Shadow Claw
+- Sucker Punch
+- Infestation
+- Shadow Sneak
+|Drifblim
+Level: 66
+Hardy Nature
+Ability: Aftermath
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Will-O-Wisp
+|Dhelmise
+Level: 66
+Hardy Nature
+Ability: Steelworker
+- Phantom Force
+- Heavy Slam
+- Earthquake
+- Power Whip
+|Froslass
+Level: 66
+Hardy Nature
+Ability: Snow Cloak
+- Blizzard
+- Shadow Ball
+- Thunderbolt
+- Ice Shard
+|Palossand
+Level: 66
+Hardy Nature
+Ability: Water Compaction
+- Shadow Ball
+- Sludge Bomb
+- Earth Power
+- Giga Drain
+|Braviary
+Level: 66
+Hardy Nature
+Ability: Sheer Force
+- Crush Claw
+- Brave Bird
+- Superpower
+- Scary Face
+|Hawlucha
+Level: 66
+Hardy Nature
+Ability: Mold Breaker
+- Flying Press
+- Throat Chop
+- Dual Chop
+- Poison Jab
+|Oricorio
+Level: 66
+Hardy Nature
+Ability: Dancer
+- Revelation Dance
+- Air Slash
+- Feather Dance
+- Teeter Dance
+|Mandibuzz
+Level: 66
+Hardy Nature
+Ability: Big Pecks
+- Snarl
+- Air Slash
+- Roost
+- Toxic
+|Toucannon
+Level: 66
+Hardy Nature
+Ability: Skill Link
+- Bullet Seed
+- Rock Blast
+- Beak Blast
+- Brick Break
+|Lycanroc
+Level: 69
+Hardy Nature
+Ability: Keen Eye
+- Stone Edge
+- Accelerock
+- Crunch
+- Stealth Rock
+|Ninetales-Alola
+Level: 68
+Hardy Nature
+Ability: Snow Cloak
+- Dazzling Gleam
+- Blizzard
+- Ice Shard
+- Safeguard
+|Braviary
+Level: 68
+Hardy Nature
+Ability: Keen Eye
+- Crush Claw
+- Brave Bird
+- Tailwind
+- Whirlwind
+|Magnezone
+Level: 68
+Hardy Nature
+Ability: Sturdy
+- Thunderbolt
+- Flash Cannon
+- Thunder Wave
+- Mirror Coat
+|Snorlax
+Level: 68
+Hardy Nature
+Ability: Thick Fat
+- Body Slam
+- Crunch
+- Heavy Slam
+- High Horsepower
+|Decidueye
+Level: 68
+Hardy Nature
+Ability: Overgrow
+- Leaf Blade
+- Spirit Shackle
+- Brave Bird
+- Sucker Punch
+|Ludicolo
+Level: 72
+Hardy Nature
+Ability: Rain Dish
+- Seed Bomb
+- Waterfall
+- Body Slam
+- Fake Out
+|Eldegoss
+Level: 72
+Hardy Nature
+Ability: Regenerator
+- Giga Drain
+- Cotton Guard
+- Protect
+- Hyper Voice
+|Tsareena
+Level: 73
+Hardy Nature
+Ability: Queenly Majesty
+- Sunny Day
+- High Jump Kick
+- Trop Kick
+- Zen Headbutt
+|Cherrim
+Level: 73
+Hardy Nature
+Ability: Flower Gift
+- Sunny Day
+- Dazzling Gleam
+- Solar Beam
+- Weather Ball
+|Appletun
+Level: 74
+Hardy Nature
+Ability: Thick Fat
+- Apple Acid
+- Iron Defense
+- Recover
+- Dragon Pulse
+|Golisopod
+Level: 72
+Hardy Nature
+Ability: Emergency Exit
+- First Impression
+- Liquidation
+- Swords Dance
+- Shadow Claw
+|Pelipper
+Level: 72
+Hardy Nature
+Ability: Drizzle
+- Roost
+- Water Pulse
+- Hurricane
+- Tailwind
+|Quagsire
+Level: 73
+Hardy Nature
+Ability: Damp
+- Earthquake
+- Scald
+- Ice Punch
+- Toxic
+|Toxapex
+Level: 73
+Hardy Nature
+Ability: Merciless
+- Baneful Bunker
+- Recover
+- Venoshock
+- Liquidation
+|Drednaw
+Level: 74
+Hardy Nature
+Ability: Shell Armor
+- Liquidation
+- Jaw Lock
+- Rock Tomb
+- Crunch
+|Torkoal
+Level: 72
+Hardy Nature
+Ability: Drought
+- Heat Crash
+- Stealth Rock
+- Body Press
+- Earthquake
+|Ninetales
+Level: 72
+Hardy Nature
+Ability: Flash Fire
+- Extrasensory
+- Fire Blast
+- Solar Beam
+- Quick Attack
+|Arcanine
+Level: 73
+Hardy Nature
+Ability: Intimidate
+- Extreme Speed
+- Flare Blitz
+- Play Rough
+- Iron Head
+|Salazzle
+Level: 73
+Hardy Nature
+Ability: Corrosion
+- Flamethrower
+- Sludge Wave
+- Dragon Pulse
+- Foul Play
+|Centiskorch
+Level: 74
+Hardy Nature
+Ability: Flash Fire
+- Fire Lash
+- Lunge
+- Crunch
+- Power Whip
+|Hawlucha
+Level: 72
+Hardy Nature
+Ability: Limber
+- Flying Press
+- Swords Dance
+- High Jump Kick
+- Poison Jab
+|Grapploct
+Level: 72
+Hardy Nature
+Ability: Limber
+- Octolock
+- Detect
+- Liquidation
+- Close Combat
+|Sirfetch’d
+Level: 73
+Hardy Nature
+Ability: Steadfast
+- Leaf Blade
+- Meteor Assault
+- Knock Off
+- First Impression
+|Falinks
+Level: 73
+Hardy Nature
+Ability: Battle Armor
+- No Retreat
+- Megahorn
+- Close Combat
+- Throat Chop
+|Machamp
+Level: 74
+Hardy Nature
+Ability: Guts
+- Fire Punch
+- Cross Chop
+- Knock Off
+- Ice Punch
+|Dusknoir
+Level: 72
+Hardy Nature
+Ability: Pressure
+- Shadow Punch
+- Fire Punch
+- Ice Punch
+- Disable
+|Chandelure
+Level: 72
+Hardy Nature
+Ability: Flash Fire
+- Shadow Ball
+- Heat Wave
+- Energy Ball
+- Will-O-Wisp
+|Cursola
+Level: 73
+Hardy Nature
+Ability: Weak Armor
+- Hex
+- Strength Sap
+- Ancient Power
+- Amnesia
+|Runerigus
+Level: 73
+Hardy Nature
+Ability: Wandering Spirit
+- Earthquake
+- Shadow Claw
+- Disable
+- Rock Tomb
+|Gengar
+Level: 74
+Hardy Nature
+Ability: Cursed Body
+- Shadow Ball
+- Dark Pulse
+- Sludge Bomb
+- Hypnosis
+|Weezing-Galar
+Level: 68
+Hardy Nature
+Ability: Levitate
+- Venoshock
+- Protect
+- Strange Steam
+- Toxic
+|Togekiss
+Level: 69
+Hardy Nature
+Ability: Hustle
+- Air Slash
+- Dazzling Gleam
+- Reflect
+- Mystical Fire
+|Alcremie
+Level: 70
+Hardy Nature
+Ability: Sweet Veil
+- Draining Kiss
+- Psychic
+- Acid Armor
+- Decorate
+|Barbaracle
+Level: 72
+Hardy Nature
+Ability: Tough Claws
+- Shell Smash
+- Stone Edge
+- Earthquake
+- Liquidation
+|Shuckle
+Level: 72
+Hardy Nature
+Ability: Contrary
+- Sticky Web
+- Stealth Rock
+- Gastro Acid
+- Rock Tomb
+|Stonjourner
+Level: 73
+Hardy Nature
+Ability: Power Spot
+- Stealth Rock
+- Rock Tomb
+- Body Press
+- Wonder Room
+|Tyranitar
+Level: 73
+Hardy Nature
+Ability: Sand Stream
+- Crunch
+- Body Press
+- Stone Edge
+- Ice Punch
+|Coalossal
+Level: 74
+Hardy Nature
+Ability: Steam Engine
+- Tar Shot
+- Earthquake
+- Fusion Flare
+- Stone Edge
+|Frosmoth
+Level: 72
+Hardy Nature
+Ability: Shield Dust
+- Hurricane
+- Blizzard
+- Tailwind
+- Hail
+|Mr. Rime
+Level: 72
+Hardy Nature
+Ability: Screen Cleaner
+- Freeze-Dry
+- Psychic
+- Energy Ball
+- Nasty Plot
+|Eiscue
+Level: 73
+Hardy Nature
+Ability: Ice Face
+- Hail
+- Freeze-Dry
+- Surf
+- Rest
+|Darmanitan-Galar
+Level: 73
+Hardy Nature
+Ability: Zen Mode
+- Flare Blitz
+- Icicle Crash
+- Stone Edge
+- Earthquake
+|Lapras
+Level: 74
+Hardy Nature
+Ability: Shell Armor
+- Blizzard
+- Hydro Pump
+- Thunder
+- Life Dew
+|Scrafty
+Level: 72
+Hardy Nature
+Ability: Moxie
+- Fake Out
+- Sand Attack
+- Brick Break
+- Payback
+|Malamar
+Level: 72
+Hardy Nature
+Ability: Contrary
+- Night Slash
+- Psycho Cut
+- Foul Play
+- Payback
+|Skuntank
+Level: 73
+Hardy Nature
+Ability: Aftermath
+- Sucker Punch
+- Screech
+- Toxic
+- Snarl
+|Toxtricity
+Level: 73
+Hardy Nature
+Ability: Punk Rock
+- Overdrive
+- Sludge Bomb
+- Taunt
+- Venom Drench
+|Obstagoon
+Level: 74
+Hardy Nature
+Ability: Reckless
+- Obstruct
+- Throat Chop
+- Counter
+- Shadow Claw
+|Torkoal
+Level: 74
+Hardy Nature
+Ability: Drought
+- Lava Plume
+- Body Press
+- Solar Beam
+- Gyro Ball
+|Goodra
+Level: 74
+Hardy Nature
+Ability: Sap Sipper
+- Life Dew
+- Thunder
+- Hydro Pump
+- Sludge Bomb
+|Turtonator
+Level: 75
+Hardy Nature
+Ability: Shell Armor
+- Sunny Day
+- Dragon Pulse
+- Fire Blast
+- Shell Trap
+|Flygon
+Level: 75
+Hardy Nature
+Ability: Levitate
+- Sandstorm
+- Dragon Claw
+- Earthquake
+- Crunch
+|Duraludon
+Level: 76
+Hardy Nature
+Ability: Light Metal
+- Dragon Claw
+- Iron Head
+- Stone Edge
+- Body Press
+|Liepard
+Level: 73
+Hardy Nature
+Ability: Prankster
+- Fake Out
+- Torment
+- Nasty Plot
+- Snarl
+|Toxicroak
+Level: 72
+Hardy Nature
+Ability: Dry Skin
+- Drain Punch
+- Gunk Shot
+- Earthquake
+- Poison Jab
+|Scrafty
+Level: 72
+Hardy Nature
+Ability: Shed Skin
+- Ice Punch
+- Thunder Punch
+- Drain Punch
+- Crunch
+|Morpeko
+Level: 73
+Hardy Nature
+Ability: Hunger Switch
+- Aura Wheel
+- Seed Bomb
+- Torment
+- Quick Attack
+|Grimmsnarl
+Level: 74
+Hardy Nature
+Ability: Prankster
+- Spirit Break
+- Darkest Lariat
+- Bulk Up
+- Play Rough
+|Dubwool
+Level: 69
+Hardy Nature
+Ability: Fluffy
+- Cotton Guard
+- Double Kick
+- Double-Edge
+- Headbutt
+|Snorlax
+Level: 68
+Hardy Nature
+Ability: Thick Fat
+- Hammer Arm
+- Earthquake
+- Heavy Slam
+- Crunch
+|Pincurchin
+Level: 68
+Hardy Nature
+Ability: Lightning Rod
+- Zing Zap
+- Poison Jab
+- Liquidation
+- Recover
+|Corviknight
+Level: 69
+Hardy Nature
+Ability: Unnerve
+- Steel Wing
+- Drill Peck
+- Swagger
+- Light Screen
+|Cinderace
+Level: 70
+Hardy Nature
+Ability: Blaze
+- Gunk Shot
+- Iron Head
+- Pyro Ball
+- Zen Headbutt
+|Zacian @ Rusted Sword
+Level: 70
+Hardy Nature
+Ability: Intrepid Sword
+- Crunch
+- Behemoth Blade
+- Wild Charge
+- Close Combat
+|Dubwool
+Level: 69
+Hardy Nature
+Ability: Fluffy
+- Cotton Guard
+- Double Kick
+- Double-Edge
+- Headbutt
+|Snorlax
+Level: 68
+Hardy Nature
+Ability: Thick Fat
+- Hammer Arm
+- Earthquake
+- Heavy Slam
+- Crunch
+|Pincurchin
+Level: 68
+Hardy Nature
+Ability: Lightning Rod
+- Zing Zap
+- Poison Jab
+- Liquidation
+- Recover
+|Corviknight
+Level: 69
+Hardy Nature
+Ability: Unnerve
+- Steel Wing
+- Drill Peck
+- Swagger
+- Light Screen
+|Cinderace
+Level: 70
+Hardy Nature
+Ability: Blaze
+- Gunk Shot
+- Iron Head
+- Pyro Ball
+- Zen Headbutt
+|Zamazenta @ Rusted Shield
+Level: 70
+Hardy Nature
+Ability: Dauntless Shield
+- Crunch
+- Psychic
+- Behemoth Bash
+- Play Rough
+|Mawile
+Level: 72
+Hardy Nature
+Ability: Hyper Cutter
+- Iron Head
+- Fake Tears
+- Crunch
+- Play Rough
+|Gardevoir
+Level: 72
+Hardy Nature
+Ability: Synchronize
+- Shadow Ball
+- Energy Ball
+- Psychic
+- Dazzling Gleam
+|Rapidash-Galar
+Level: 73
+Hardy Nature
+Ability: Pastel Veil
+- Zen Headbutt
+- Smart Strike
+- Dazzling Gleam
+- Drill Run
+|Sylveon
+Level: 73
+Hardy Nature
+Ability: Cute Charm
+- Moonblast
+- Light Screen
+- Shadow Ball
+- Psyshock
+|Hatterene
+Level: 74
+Hardy Nature
+Ability: Healer
+- Psychic
+- Dazzling Gleam
+- Dark Pulse
+- Mystical Fire
+|Spidops
+Level: 80
+Hardy Nature
+Ability: Insomnia
+- Sticky Web
+- Toxic Spikes
+- Circle Throw
+- Silk Trap
+|Heracross
+Level: 80
+Hardy Nature
+Ability: Swarm
+- Megahorn
+- Rock Blast
+- Bullet Seed
+- Arm Thrust
+|Forretress
+Level: 80
+Hardy Nature
+Ability: Sturdy
+- Bug Bite
+- Gyro Ball
+- Curse
+- Stone Edge
+|Lokix
+Level: 80
+Hardy Nature
+Ability: Swarm
+- First Impression
+- Sucker Punch
+- Lunge
+- Taunt
+|Araquanid
+Level: 81
+Hardy Nature
+Ability: Water Bubble
+- Liquidation
+- Leech Life
+- Poison Jab
+- Mirror Coat
+|Ursaring
+Level: 81
+Hardy Nature
+Ability: Guts
+- Fury Cutter
+- Play Rough
+- High Horsepower
+- Crunch
+|Breloom
+Level: 80
+Hardy Nature
+Ability: Effect Spore
+- Mach Punch
+- Seed Bomb
+- Spore
+- Rock Tomb
+|Arboliva
+Level: 80
+Hardy Nature
+Ability: Seed Sower
+- Terrain Pulse
+- Giga Drain
+- Dazzling Gleam
+- Strength Sap
+|Vileplume
+Level: 80
+Hardy Nature
+Ability: Chlorophyll
+- Petal Dance
+- Moonblast
+- Stun Spore
+- Sludge Bomb
+|Tsareena
+Level: 80
+Hardy Nature
+Ability: Queenly Majesty
+- Trop Kick
+- Trailblaze
+- Stomp
+- Triple Axel
+|Lilligant
+Level: 80
+Hardy Nature
+Ability: Chlorophyll
+- Petal Dance
+- Pollen Puff
+- Quiver Dance
+- Energy Ball
+|Sudowoodo
+Level: 81
+Hardy Nature
+Ability: Sturdy
+- Trailblaze
+- Wood Hammer
+- Head Smash
+- Low Kick
+|Kilowattrel
+Level: 80
+Hardy Nature
+Ability: Wind Power
+- Hurricane
+- Endeavor
+- Discharge
+- Tailwind
+|Electrode
+Level: 80
+Hardy Nature
+Ability: Static
+- Foul Play
+- Rain Dance
+- Thunder
+- Electric Terrain
+|Bellibolt
+Level: 80
+Hardy Nature
+Ability: Electromorphosis
+- Water Pulse
+- Thunder
+- Reflect
+- Acid Spray
+|Luxray
+Level: 80
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Wild Charge
+- Psychic Fangs
+- Ice Fang
+|Electivire
+Level: 80
+Hardy Nature
+Ability: Motor Drive
+- Brick Break
+- Trailblaze
+- Ice Punch
+- Supercell Slam
+|Mismagius
+Level: 81
+Hardy Nature
+Ability: Levitate
+- Thunderbolt
+- Shadow Ball
+- Mystical Fire
+- Dazzling Gleam
+|Pelipper
+Level: 80
+Hardy Nature
+Ability: Drizzle
+- Hurricane
+- Blizzard
+- Surf
+- Quick Attack
+|Veluza
+Level: 80
+Hardy Nature
+Ability: Mold Breaker
+- Aqua Jet
+- Liquidation
+- Psycho Cut
+- Night Slash
+|Feraligatr
+Level: 80
+Hardy Nature
+Ability: Sheer Force
+- Liquidation
+- Crunch
+- Ice Punch
+- Earthquake
+|Wugtrio
+Level: 80
+Hardy Nature
+Ability: Gooey
+- Triple Dive
+- Throat Chop
+- Sucker Punch
+- Stomping Tantrum
+|Clawitzer
+Level: 80
+Hardy Nature
+Ability: Mega Launcher
+- Water Pulse
+- Dark Pulse
+- Blizzard
+- Aura Sphere
+|Crabominable
+Level: 81
+Hardy Nature
+Ability: Iron Fist
+- Crabhammer
+- Ice Hammer
+- Zen Headbutt
+- Close Combat
+|Oinkologne
+Level: 82
+Hardy Nature
+Ability: Gluttony
+- Body Slam
+- Trailblaze
+- Play Rough
+- Iron Head
+|Tauros
+Level: 82
+Hardy Nature
+Ability: Intimidate
+- Raging Bull
+- Earthquake
+- Stone Edge
+- Zen Headbutt
+|Dudunsparce
+Level: 82
+Hardy Nature
+Ability: Serene Grace
+- Hyper Drill
+- Earthquake
+- Stone Edge
+- Glare
+|Altaria
+Level: 82
+Hardy Nature
+Ability: Natural Cure
+- Moonblast
+- Flamethrower
+- Ice Beam
+- Dual Wingbeat
+|Flamigo
+Level: 82
+Hardy Nature
+Ability: Scrappy
+- Brave Bird
+- Close Combat
+- Throat Chop
+- Liquidation
+|Staraptor
+Level: 83
+Hardy Nature
+Ability: Intimidate
+- Facade
+- Brave Bird
+- Close Combat
+- Thief
+|Banette
+Level: 80
+Hardy Nature
+Ability: Insomnia
+- Icy Wind
+- Sucker Punch
+- Shadow Sneak
+- Skitter Smack
+|Mimikyu
+Level: 80
+Hardy Nature
+Ability: Disguise
+- Swords Dance
+- Shadow Sneak
+- Drain Punch
+- Play Rough
+|Golurk
+Level: 80
+Hardy Nature
+Ability: No Guard
+- Dynamic Punch
+- Stomping Tantrum
+- Stone Edge
+- Phantom Force
+|Spiritomb
+Level: 80
+Hardy Nature
+Ability: Pressure
+- Protect
+- Sucker Punch
+- Pain Split
+- Will-O-Wisp
+|Houndstone
+Level: 80
+Hardy Nature
+Ability: Sand Rush
+- Play Rough
+- Crunch
+- Phantom Force
+- Ice Fang
+|Toxtricity
+Level: 81
+Hardy Nature
+Ability: Punk Rock
+- Overdrive
+- Hex
+- Boomburst
+- Sludge Bomb
+|Farigiraf
+Level: 80
+Hardy Nature
+Ability: Armor Tail
+- Shadow Ball
+- Expanding Force
+- Psychic Terrain
+- Thunderbolt
+|Gardevoir
+Level: 80
+Hardy Nature
+Ability: Synchronize
+- Expanding Force
+- Dazzling Gleam
+- Energy Ball
+- Mystical Fire
+|Espathra
+Level: 80
+Hardy Nature
+Ability: Opportunist
+- Lumina Crash
+- Flash Cannon
+- Shadow Ball
+- Dazzling Gleam
+|Gallade
+Level: 80
+Hardy Nature
+Ability: Steadfast
+- Psycho Cut
+- Leaf Blade
+- X-Scissor
+- Close Combat
+|Delphox
+Level: 80
+Hardy Nature
+Ability: Blaze
+- Flamethrower
+- Psychic
+- Shadow Ball
+- Scorching Sands
+|Florges
+Level: 81
+Hardy Nature
+Ability: Flower Veil
+- Psychic
+- Moonblast
+- Giga Drain
+- Calm Mind
+|Ninetales-Alola
+Level: 80
+Hardy Nature
+Ability: Snow Warning
+- Aurora Veil
+- Freeze-Dry
+- Blizzard
+- Dazzling Gleam
+|Beartic
+Level: 80
+Hardy Nature
+Ability: Snow Cloak
+- Aqua Jet
+- Icicle Crash
+- Earthquake
+- Stone Edge
+|Frosmoth
+Level: 80
+Hardy Nature
+Ability: Shield Dust
+- Blizzard
+- Air Slash
+- Bug Buzz
+- Quiver Dance
+|Cetitan
+Level: 80
+Hardy Nature
+Ability: Thick Fat
+- Ice Spinner
+- Liquidation
+- Ice Shard
+- Earthquake
+|Weavile
+Level: 80
+Hardy Nature
+Ability: Pressure
+- Night Slash
+- Icicle Crash
+- Brick Break
+- Poison Jab
+|Altaria
+Level: 81
+Hardy Nature
+Ability: Natural Cure
+- Ice Beam
+- Dragon Pulse
+- Moonblast
+- Hurricane
+|Dugtrio
+Level: 82
+Hardy Nature
+Ability: Sand Veil
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Sandstorm
+|Whiscash
+Level: 82
+Hardy Nature
+Ability: Oblivious
+- Muddy Water
+- Earth Power
+- Ice Beam
+- Stealth Rock
+|Camerupt
+Level: 82
+Hardy Nature
+Ability: Magma Armor
+- Earth Power
+- Lava Plume
+- Flash Cannon
+- Yawn
+|Torterra
+Level: 82
+Hardy Nature
+Ability: Shell Armor
+- Earthquake
+- Iron Head
+- Seed Bomb
+- Body Press
+|Donphan
+Level: 82
+Hardy Nature
+Ability: Sturdy
+- Earthquake
+- Stone Edge
+- Iron Head
+- Poison Jab
+|Clodsire
+Level: 83
+Hardy Nature
+Ability: Water Absorb
+- Earthquake
+- Liquidation
+- Toxic
+- Protect
+|Copperajah
+Level: 82
+Hardy Nature
+Ability: Sheer Force
+- High Horsepower
+- Play Rough
+- Heavy Slam
+- Stealth Rock
+|Bastiodon
+Level: 82
+Hardy Nature
+Ability: Sturdy
+- Iron Defense
+- Body Press
+- Metal Burst
+- Reflect
+|Bronzong
+Level: 82
+Hardy Nature
+Ability: Levitate
+- Iron Head
+- Ice Spinner
+- Zen Headbutt
+- Earthquake
+|Magnezone
+Level: 82
+Hardy Nature
+Ability: Sturdy
+- Discharge
+- Flash Cannon
+- Light Screen
+- Tri Attack
+|Corviknight
+Level: 83
+Hardy Nature
+Ability: Pressure
+- Dual Wingbeat
+- Iron Head
+- Body Press
+- Iron Defense
+|Tinkaton
+Level: 83
+Hardy Nature
+Ability: Mold Breaker
+- Play Rough
+- Gigaton Hammer
+- Brick Break
+- Stone Edge
+|Duraludon
+Level: 82
+Hardy Nature
+Ability: Stalwart
+- Stealth Rock
+- Body Press
+- Thunderbolt
+- Draco Meteor
+|Noivern
+Level: 82
+Hardy Nature
+Ability: Infiltrator
+- Air Slash
+- Dragon Pulse
+- Super Fang
+- Boomburst
+|Haxorus
+Level: 82
+Hardy Nature
+Ability: Mold Breaker
+- Breaking Swipe
+- Crunch
+- Iron Head
+- Rock Tomb
+|Dragalge
+Level: 82
+Hardy Nature
+Ability: Poison Point
+- Sludge Bomb
+- Dragon Pulse
+- Hydro Pump
+- Thunderbolt
+|Dragonite
+Level: 82
+Hardy Nature
+Ability: Inner Focus
+- Extreme Speed
+- Dragon Rush
+- Earthquake
+- Stone Edge
+|Baxcalibur
+Level: 83
+Hardy Nature
+Ability: Thermal Exchange
+- Iron Head
+- Glaive Rush
+- Earthquake
+- Ice Shard
+|Glimmora
+Level: 84
+Hardy Nature
+Ability: Toxic Debris
+- Power Gem
+- Sludge Wave
+- Earth Power
+- Light Screen
+|Espathra
+Level: 84
+Hardy Nature
+Ability: Opportunist
+- Lumina Crash
+- Dazzling Gleam
+- Shadow Ball
+- Protect
+|Chesnaught
+Level: 84
+Hardy Nature
+Ability: Bulletproof
+- Spiky Shield
+- Leech Seed
+- Drain Punch
+- Bulk Up
+|Avalugg
+Level: 84
+Hardy Nature
+Ability: Own Tempo
+- Avalanche
+- Heavy Slam
+- Earthquake
+- Body Press
+|Dragapult
+Level: 84
+Hardy Nature
+Ability: Clear Body
+- Dragon Darts
+- Sucker Punch
+- Thunderbolt
+- Shadow Ball
+|Kingambit
+Level: 85
+Hardy Nature
+Ability: Supreme Overlord
+- Iron Head
+- Kowtow Cleave
+- Tera Blast
+- Stone Edge
+|Mightyena
+Level: 82
+Hardy Nature
+Ability: Intimidate
+- Super Fang
+- Howl
+- Yawn
+- Sucker Punch
+|Toucannon
+Level: 82
+Hardy Nature
+Ability: Sheer Force
+- Beak Blast
+- Throat Chop
+- Flame Charge
+- Dual Wingbeat
+|Morpeko @ Focus Sash
+Level: 82
+Hardy Nature
+Ability: Hunger Switch
+- Aura Wheel
+- Lash Out
+- Thunder Wave
+- Seed Bomb
+|Ninetales
+Level: 82
+Hardy Nature
+Ability: Flash Fire
+- Flamethrower
+- Extrasensory
+- Will-O-Wisp
+- Disable
+|Scrafty
+Level: 82
+Hardy Nature
+Ability: Intimidate
+- Brick Break
+- Crunch
+- Ice Punch
+- Bulk Up
+|Sinistcha @ Occa Berry
+Level: 83
+Hardy Nature
+Ability: Hospitality
+- Matcha Gotcha
+- Hex
+- Stun Spore
+- Scald
+|Politoed
+Level: 85
+Hardy Nature
+Ability: Drizzle
+- Ice Beam
+- Weather Ball
+- Psychic
+- Helping Hand
+|Dragonite @ Expert Belt
+Level: 85
+Hardy Nature
+Ability: Multiscale
+- Hurricane
+- Thunder
+- Extreme Speed
+- Breaking Swipe
+|Grimmsnarl @ Focus Sash
+Level: 86
+Hardy Nature
+Ability: Prankster
+- Sucker Punch
+- Spirit Break
+- Light Screen
+- Reflect
+|Porygon-Z @ Life Orb
+Level: 86
+Hardy Nature
+Ability: Adaptability
+- Hyper Beam
+- Ice Beam
+- Thunderbolt
+- Shadow Ball
+|Incineroar @ Sitrus Berry
+Level: 86
+Hardy Nature
+Ability: Intimidate
+- Darkest Lariat
+- Brick Break
+- Flare Blitz
+- Fake Out
+|Hydrapple @ Assault Vest
+Level: 87
+Hardy Nature
+Ability: Supersweet Syrup
+- Fickle Beam
+- Gyro Ball
+- Tera Blast
+- Earth Power
+|Skarmory @ Rocky Helmet
+Level: 83
+Hardy Nature
+Ability: Sturdy
+- Stealth Rock
+- Whirlwind
+- Body Press
+- Dual Wingbeat
+|Dugtrio-Alola @ Focus Sash
+Level: 83
+Hardy Nature
+Ability: Sand Veil
+- Earthquake
+- Sucker Punch
+- Iron Head
+- Stone Edge
+|Scizor @ Occa Berry
+Level: 84
+Hardy Nature
+Ability: Technician
+- Bullet Punch
+- Trailblaze
+- Pounce
+- Aerial Ace
+|Reuniclus @ Leftovers
+Level: 84
+Hardy Nature
+Ability: Magic Guard
+- Trick Room
+- Protect
+- Energy Ball
+- Psychic
+|Empoleon @ Mystic Water
+Level: 84
+Hardy Nature
+Ability: Torrent
+- Ice Beam
+- Hydro Pump
+- Flash Cannon
+- Grass Knot
+|Metagross @ Expert Belt
+Level: 85
+Hardy Nature
+Ability: Clear Body
+- Hard Press
+- Ice Punch
+- Zen Headbutt
+- Brick Break
+|Rotom-Heat @ Rocky Helmet
+Level: 82
+Hardy Nature
+Ability: Levitate
+- Will-O-Wisp
+- Overheat
+- Thunderbolt
+- Hex
+|Talonflame @ Focus Sash
+Level: 82
+Hardy Nature
+Ability: Flame Body
+- Sunny Day
+- Brave Bird
+- Flare Blitz
+- Roost
+|Exeggutor @ Sitrus Berry
+Level: 83
+Hardy Nature
+Ability: Harvest
+- Leech Seed
+- Psyshock
+- Protect
+- Solar Beam
+|Camerupt @ Expert Belt
+Level: 83
+Hardy Nature
+Ability: Solid Rock
+- Earth Power
+- Heat Wave
+- Ancient Power
+- Zen Headbutt
+|Magmortar @ Passho Berry
+Level: 83
+Hardy Nature
+Ability: Flame Body
+- Psychic
+- Thunderbolt
+- Heat Wave
+- Sunny Day
+|Blaziken @ Assault Vest
+Level: 84
+Hardy Nature
+Ability: Speed Boost
+- Stone Edge
+- Focus Blast
+- Temper Flare
+- Shadow Claw
+|Dragonite @ Yache Berry
+Level: 83
+Hardy Nature
+Ability: Multiscale
+- Extreme Speed
+- Thunder Punch
+- Ice Spinner
+- Tailwind
+|Flygon @ Life Orb
+Level: 83
+Hardy Nature
+Ability: Levitate
+- Earthquake
+- Stone Edge
+- Fire Punch
+- Breaking Swipe
+|Haxorus @ Focus Sash
+Level: 84
+Hardy Nature
+Ability: Mold Breaker
+- Earthquake
+- Breaking Swipe
+- Iron Head
+- Dragon Dance
+|Sceptile @ Weakness Policy
+Level: 84
+Hardy Nature
+Ability: Unburden
+- Dragon Cheer
+- Leaf Storm
+- X-Scissor
+- Acrobatics
+|Kingdra @ Expert Belt
+Level: 84
+Hardy Nature
+Ability: Swift Swim
+- Rain Dance
+- Ice Beam
+- Hydro Pump
+- Hurricane
+|Archaludon @ Assault Vest
+Level: 85
+Hardy Nature
+Ability: Stamina
+- Electro Shot
+- Dragon Pulse
+- Flash Cannon
+- Snarl
+|Whimsicott @ Focus Sash
+Level: 83
+Hardy Nature
+Ability: Prankster
+- Light Screen
+- Tailwind
+- Energy Ball
+- Moonblast
+|Granbull @ Expert Belt
+Level: 83
+Hardy Nature
+Ability: Intimidate
+- Play Rough
+- Fire Punch
+- Ice Punch
+- Stomping Tantrum
+|Primarina @ Throat Spray
+Level: 84
+Hardy Nature
+Ability: Liquid Voice
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Shadow Ball
+|Slowbro @ Sitrus Berry
+Level: 84
+Hardy Nature
+Ability: Quick Draw
+- Shell Side Arm
+- Psychic
+- Flamethrower
+- Ice Beam
+|Alcremie @ Leftovers
+Level: 84
+Hardy Nature
+Ability: Sweet Veil
+- Decorate
+- Recover
+- Giga Drain
+- Alluring Voice
+|Excadrill @ Assault Vest
+Level: 85
+Hardy Nature
+Ability: Mold Breaker
+- Tera Blast
+- Iron Head
+- Rock Tomb
+- High Horsepower
+|Iron Moth
+Level: 66
+Hardy Nature
+Ability: Quark Drive
+- Sludge Bomb
+- Fiery Dance
+- Discharge
+- Air Slash
+|Iron Bundle
+Level: 66
+Hardy Nature
+Ability: Quark Drive
+- Drill Peck
+- Water Pulse
+- Freeze-Dry
+- Snowscape
+|Iron Hands
+Level: 66
+Hardy Nature
+Ability: Quark Drive
+- Thunder Punch
+- Drain Punch
+- Iron Head
+- Fake Out
+|Iron Jugulis
+Level: 66
+Hardy Nature
+Ability: Quark Drive
+- Air Slash
+- Dark Pulse
+- Flamethrower
+- Flash Cannon
+|Iron Thorns
+Level: 66
+Hardy Nature
+Ability: Quark Drive
+- Thunder Punch
+- Brick Break
+- Stone Edge
+- Earthquake
+|Iron Valiant @ Booster Energy
+Level: 67
+Hardy Nature
+Ability: Quark Drive
+- Psycho Cut
+- Brick Break
+- Spirit Break
+- Poison Jab
+|Slither Wing
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Lunge
+- Leech Life
+- Low Sweep
+- Zen Headbutt
+|Scream Tail
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Play Rough
+- Drain Punch
+- Ice Punch
+- Zen Headbutt
+|Brute Bonnet
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Earth Power
+- Giga Drain
+- Payback
+- Sucker Punch
+|Flutter Mane
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Power Gem
+- Mystical Fire
+- Shadow Ball
+- Thunderbolt
+|Sandy Shocks
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Discharge
+- Earth Power
+- Flash Cannon
+- Power Gem
+|Roaring Moon @ Booster Energy
+Level: 66
+Hardy Nature
+Ability: Protosynthesis
+- Dragon Claw
+- Night Slash
+- Stone Edge
+- Earthquake
+|Lycanroc
+Level: 86
+Hardy Nature
+Ability: Sand Rush
+- Accelerock
+- Drill Run
+- Play Rough
+- Stealth Rock
+|Kommo-o
+Level: 86
+Hardy Nature
+Ability: Soundproof
+- Clangorous Soul
+- Drain Punch
+- Thunder Punch
+- Earthquake
+|Greninja
+Level: 86
+Hardy Nature
+Ability: Torrent
+- Water Shuriken
+- Dark Pulse
+- Ice Beam
+- Grass Knot
+|Dusknoir
+Level: 86
+Hardy Nature
+Ability: Pressure
+- Earthquake
+- Thunder Punch
+- Shadow Sneak
+- Ice Punch
+|Pawmot
+Level: 86
+Hardy Nature
+Ability: Volt Absorb
+- Double Shock
+- Close Combat
+- Ice Punch
+- Mach Punch
+|Skeledirge
+Level: 87
+Hardy Nature
+Ability: Blaze
+- Torch Song
+- Earth Power
+- Shadow Ball
+- Alluring Voice
+|Mienshao
+Level: 78
+Hardy Nature
+Ability: Inner Focus
+- Fake Out
+- Close Combat
+- Blaze Kick
+- U-turn
+|Luxray
+Level: 78
+Hardy Nature
+Ability: Intimidate
+- Wild Charge
+- Crunch
+- Psychic Fangs
+- Crunch
+|Corviknight
+Level: 79
+Hardy Nature
+Ability: Unnerve
+- Iron Head
+- Brave Bird
+- Light Screen
+- Body Press
+|Lycanroc
+Level: 80
+Hardy Nature
+Ability: Keen Eye
+- Stone Edge
+- Accelerock
+- Play Rough
+- Stealth Rock
+|Kommo-o
+Level: 80
+Hardy Nature
+Ability: Soundproof
+- Clanging Scales
+- Flash Cannon
+- Aura Sphere
+- Clangorous Soul
+|Urshifu-Rapid-Strike
+Level: 80
+Hardy Nature
+Ability: Unseen Fist
+- Surging Strikes
+- Close Combat
+- Iron Head
+- Poison Jab
+|Perrserker
+Level: 74
+Hardy Nature
+Ability: Tough Claws
+- U-turn
+- Iron Head
+- Seed Bomb
+- Throat Chop
+|Bronzong
+Level: 73
+Hardy Nature
+Ability: Heatproof
+- Extrasensory
+- Flash Cannon
+- Calm Mind
+- Shadow Ball
+|Scizor
+Level: 73
+Hardy Nature
+Ability: Technician
+- X-Scissor
+- Bullet Punch
+- Wing Attack
+- Double Hit
+|Aggron
+Level: 74
+Hardy Nature
+Ability: Sturdy
+- Body Press
+- Stone Edge
+- Crunch
+- Iron Head
+|Copperajah
+Level: 74
+Hardy Nature
+Ability: Sheer Force
+- High Horsepower
+- Heavy Slam
+- Play Rough
+- Superpower
+|Aegislash-Shield
+Level: 62
+Hardy Nature
+Ability: Stance Change
+- King's Shield
+- Shadow Ball
+- Sacred Sword
+- Flash Cannon
+|Dragapult
+Level: 62
+Hardy Nature
+Ability: Clear Body
+- Shadow Ball
+- Flamethrower
+- Thunderbolt
+- Dragon Breath
+|Haxorus
+Level: 63
+Hardy Nature
+Ability: Mold Breaker
+- Poison Jab
+- Iron Tail
+- Outrage
+- Earthquake
+|Rhyperior
+Level: 64
+Hardy Nature
+Ability: Solid Rock
+- Earthquake
+- Stone Edge
+- Megahorn
+- Heat Crash
+|Rillaboom
+Level: 64
+Hardy Nature
+Ability: Overgrow
+- Drum Beating
+- Knock Off
+- High Horsepower
+- Endeavor
+|Charizard
+Level: 65
+Hardy Nature
+Ability: Blaze
+- Fire Blast
+- Air Slash
+- Solar Beam
+- Ancient Power
+|Greedent
+Level: 82
+Hardy Nature
+Ability: Cheek Pouch
+- Bullet Seed
+- Body Slam
+- Psychic Fangs
+- Earthquake
+|Cloyster
+Level: 82
+Hardy Nature
+Ability: Skill Link
+- Rock Blast
+- Icicle Spear
+- Liquidation
+- Light Screen
+|Scovillain
+Level: 82
+Hardy Nature
+Ability: Chlorophyll
+- Fire Blast
+- Energy Ball
+- Zen Headbutt
+- Crunch
+|Toedscruel
+Level: 82
+Hardy Nature
+Ability: Mycelium Might
+- Power Whip
+- Earth Power
+- Spore
+- Sludge Bomb
+|Garganacl
+Level: 82
+Hardy Nature
+Ability: Purifying Salt
+- Stone Edge
+- Earthquake
+- Body Press
+- Stealth Rock
+|Mabosstiff
+Level: 83
+Hardy Nature
+Ability: Intimidate
+- Crunch
+- Psychic Fangs
+- Fire Fang
+- Play Rough
+|Umbreon
+Level: 84
+Hardy Nature
+Ability: Synchronize
+- Dark Pulse
+- Quick Attack
+- Baby-Doll Eyes
+- Psychic
+|Vaporeon
+Level: 84
+Hardy Nature
+Ability: Water Absorb
+- Hydro Pump
+- Baby-Doll Eyes
+- Quick Attack
+- Aurora Beam
+|Jolteon
+Level: 84
+Hardy Nature
+Ability: Volt Absorb
+- Thunder
+- Quick Attack
+- Baby-Doll Eyes
+- Pin Missile
+|Flareon
+Level: 84
+Hardy Nature
+Ability: Flash Fire
+- Flare Blitz
+- Quick Attack
+- Baby-Doll Eyes
+- Fire Spin
+|Leafeon
+Level: 84
+Hardy Nature
+Ability: Leaf Guard
+- Leaf Blade
+- Quick Attack
+- X-Scissor
+- Baby-Doll Eyes
+|Sylveon
+Level: 85
+Hardy Nature
+Ability: Cute Charm
+- Moonblast
+- Quick Attack
+- Baby-Doll Eyes
+- Shadow Ball
+|Pidgeot
+Level: 66
+Hardy Nature
+Ability: Keen Eye
+- Quick Attack
+- Air Slash
+- Heat Wave
+- U-turn
+|Vileplume
+Level: 66
+Hardy Nature
+Ability: Chlorophyll
+- Solar Beam
+- Reflect
+- Sludge Bomb
+- Dazzling Gleam
+|Marowak
+Level: 66
+Hardy Nature
+Ability: Rock Head
+- Brick Break
+- Earthquake
+- Fire Punch
+- Thunder Punch
+|Rapidash
+Level: 66
+Hardy Nature
+Ability: Run Away
+- Flare Blitz
+- Quick Attack
+- Poison Jab
+- Drill Run
+|Slowbro
+Level: 66
+Hardy Nature
+Ability: Oblivious
+- Psychic
+- Surf
+- Blizzard
+- Light Screen
+|Jolteon
+Level: 67
+Hardy Nature
+Ability: Volt Absorb
+- Thunder
+- Quick Attack
+- Pin Missile
+- Shadow Ball
+|Slowking
+Level: 61
+Hardy Nature
+Ability: Own Tempo
+- Shadow Ball
+- Psychic
+- Water Pulse
+- Skill Swap
+|Scizor
+Level: 60
+Hardy Nature
+Ability: Swarm
+- Metal Claw
+- Silver Wind
+- Baton Pass
+- Swords Dance
+|Machamp
+Level: 61
+Hardy Nature
+Ability: Guts
+- Cross Chop
+- Rock Slide
+- Earthquake
+- Bulk Up
+|Salamence
+Level: 60
+Hardy Nature
+Ability: Intimidate
+- Dragon Dance
+- Dragon Claw
+- Aerial Ace
+- Double-Edge
+|Slaking
+Level: 60
+Hardy Nature
+Ability: Truant
+- Crush Claw
+- Aerial Ace
+- Earthquake
+- Bulk Up
+|Tyranitar
+Level: 60
+Hardy Nature
+Ability: Sand Stream
+- Earthquake
+- Thunder
+- Rock Slide
+- Blizzard
+|Manectric
+Level: 50
+Hardy Nature
+Ability: Lightning Rod
+- Thunderbolt
+- Crunch
+- Quick Attack
+- Iron Tail
+|Swellow
+Level: 50
+Hardy Nature
+Ability: Guts
+- Aerial Ace
+- Steel Wing
+- Facade
+- Mud-Slap
+|Starmie
+Level: 50
+Hardy Nature
+Ability: Illuminate
+- Psychic
+- Thunderbolt
+- Ice Beam
+- Swift
+|Granbull
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Earthquake
+- Shadow Ball
+- Brick Break
+- Double-Edge
+|Altaria
+Level: 50
+Hardy Nature
+Ability: Natural Cure
+- Dragon Breath
+- Earthquake
+- Aerial Ace
+- Steel Wing
+|Aerodactyl
+Level: 50
+Hardy Nature
+Ability: Rock Head
+- Earthquake
+- Ancient Power
+- Aerial Ace
+- Double-Edge
+|Spiritomb
+Level: 68
+Hardy Nature
+Ability: Pressure
+- Shadow Ball
+- Dark Pulse
+- Hypnosis
+- Extrasensory
+|Roserade
+Level: 68
+Hardy Nature
+Ability: Natural Cure
+- Petal Dance
+- Spikes
+- Poison Jab
+|Togekiss
+Level: 68
+Hardy Nature
+Ability: Hustle
+- Air Slash
+- Calm Mind
+- Moonblast
+- Extrasensory
+|Arcanine-Hisui
+Level: 68
+Hardy Nature
+Ability: Intimidate
+- Raging Fury
+- Rock Slide
+- Crunch
+|Lucario
+Level: 68
+Hardy Nature
+Ability: Steadfast
+- Bulk Up
+- Bullet Punch
+- Close Combat
+- Crunch
+|Garchomp
+Level: 68
+Hardy Nature
+Ability: Sand Veil
+- Earth Power
+- Dragon Claw
+- Slash
+- Iron Head
+|Raichu-Alola
+Level: 69
+Hardy Nature
+Ability: Surge Surfer
+- Thunderbolt
+- Quick Attack
+- Psychic
+- Focus Blast
+|Flareon
+Level: 68
+Hardy Nature
+Ability: Flash Fire
+- Flare Blitz
+- Quick Attack
+- Charm
+- Baby-Doll Eyes
+|Tauros
+Level: 68
+Hardy Nature
+Ability: Intimidate
+- Zen Headbutt
+- Iron Head
+- Earthquake
+- Double-Edge
+|Noivern
+Level: 68
+Hardy Nature
+Ability: Infiltrator
+- Dragon Pulse
+- Air Slash
+- Dark Pulse
+- Super Fang
+|Crabominable
+Level: 69
+Hardy Nature
+Ability: Iron Fist
+- Power-Up Punch
+- Ice Hammer
+- Stone Edge
+- Dizzy Punch
+|Primarina
+Level: 70
+Hardy Nature
+Ability: Torrent
+- Sparkling Aria
+- Moonblast
+- Hyper Voice

@@ -1,0 +1,6 @@
+detoxify==0.5.2
+matplotlib==3.8.0
+numpy==1.24.3
+Pillow==10.3.0
+Requests==2.32.2
+tqdm==4.66.1
