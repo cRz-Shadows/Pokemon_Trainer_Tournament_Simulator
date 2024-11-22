@@ -1,0 +1,809 @@
+Pikachu
+Level: 100
+IVs: 30 HP
+- Double-Edge
+- Thunderbolt
+- Agility
+- Quick Attack
+|Pidgeot
+Level: 100
+IVs: 30 HP
+- Double-Edge
+- Quick Attack
+- Sand Attack
+- Wing Attack
+|Charizard
+Level: 100
+IVs: 30 HP
+- Flamethrower
+- Rage
+- Seismic Toss
+- Fire Spin
+|Primeape
+Level: 100
+IVs: 30 HP
+- Seismic Toss
+- Mega Kick
+- Scratch
+- Thrash
+|Bulbasaur
+Level: 100
+IVs: 30 HP
+- Solar Beam
+- Leech Seed
+- Razor Leaf
+- Tackle
+|Kingler
+Level: 100
+IVs: 30 HP
+- Crabhammer
+- Stomp
+- Harden
+- Leer
+|Staryu
+Level: 100
+IVs: 30 HP
+- Swift
+- Water Gun
+- Tackle
+- Double-Edge
+|Starmie
+Level: 100
+IVs: 30 HP
+- Tackle
+- Water Gun
+|Psyduck
+Level: 100
+IVs: 30 HP
+- Confusion
+- Water Gun
+- Disable
+- Scratch
+|Horsea
+Level: 100
+IVs: 30 HP
+- Bubble
+- Smokescreen
+|Goldeen
+Level: 100
+IVs: 30 HP
+- Splash
+|Arcanine
+Level: 100
+IVs: 30 HP
+- Take Down
+- Fire Spin
+- Fire Blast
+|Nidoking
+Level: 100
+IVs: 30 HP
+- Tackle
+- Horn Attack
+|Doduo
+Level: 100
+IVs: 30 HP
+- Drill Peck
+|Squirtle
+Level: 100
+IVs: 30 HP
+- Tackle
+- Tail Whip
+|Krabby
+Level: 100
+IVs: 30 HP
+- Bubble
+- Leer
+|Mr. Mime
+Level: 100
+IVs: 30 HP
+- Confusion
+- Barrier
+|Growlithe
+Level: 100
+IVs: 30 HP
+- Bite
+- Flamethrower
+|Squirtle
+Level: 100
+IVs: 30 HP
+- Water Gun
+|Gastly
+Level: 100
+IVs: 30 HP
+- Psywave
+|Meowth
+Level: 100
+IVs: 30 HP
+- Fury Swipes
+- Scratch
+- Bite
+|Arbok
+Level: 100
+IVs: 30 HP
+- Dig
+- Bite
+- Toxic
+- Double-Edge
+|Shellder
+Level: 100
+IVs: 30 HP
+- Ice Beam
+- Clamp
+|Growlithe
+Level: 100
+IVs: 30 HP
+- Flamethrower
+|Weezing
+Level: 100
+IVs: 30 HP
+- Sludge
+- Poison Gas
+- Tackle
+- Smokescreen
+|Magikarp
+Level: 100
+IVs: 30 HP
+- Splash
+- Dragon Rage
+|Chansey
+Level: 100
+IVs: 30 HP
+- Double Slap
+|Pinsir
+Level: 100
+IVs: 30 HP
+- Vise Grip
+- Tackle
+|Metapod
+Level: 100
+IVs: 30 HP
+- Harden
+|Onix
+Level: 100
+IVs: 30 HP
+- Dig
+- Rock Throw
+- Bind
+- Tackle
+|Geodude
+Level: 100
+IVs: 30 HP
+- Seismic Toss
+- Tackle
+|Zubat
+Level: 100
+IVs: 30 HP
+- Whirlwind
+- Supersonic
+|Vulpix
+Level: 100
+IVs: 30 HP
+- Flamethrower
+- Fire Spin
+- Quick Attack
+|Dewgong
+Level: 100
+IVs: 30 HP
+- Headbutt
+- Aurora Beam
+- Ice Beam
+|Seaking
+Level: 100
+IVs: 30 HP
+- Headbutt
+- Aurora Beam
+- Ice Beam
+|Shellder
+Level: 100
+IVs: 30 HP
+- Tackle
+- Withdraw
+|Goldeen
+Level: 100
+IVs: 30 HP
+- Peck
+- Tail Whip
+|Goldeen
+Level: 100
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Horn Attack
+|Sandshrew
+Level: 100
+IVs: 30 HP
+- Dig
+- Defense Curl
+- Fissure
+|Butterfree
+Level: 100
+IVs: 30 HP
+- Confusion
+|Beedrill
+Level: 100
+IVs: 30 HP
+- Fury Attack
+|Rattata
+Level: 100
+IVs: 30 HP
+- Tackle
+- Tail Whip
+|Graveler
+Level: 100
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Cubone
+Level: 100
+IVs: 30 HP
+- Leer
+- Bone Club
+- Bonemerang
+|Weepinbell
+Level: 100
+IVs: 30 HP
+- Vine Whip
+- Growth
+- Wrap
+|Oddish
+Level: 100
+IVs: 30 HP
+- Absorb
+|Caterpie
+Level: 100
+IVs: 30 HP
+- Tackle
+- String Shot
+|Paras
+Level: 100
+IVs: 30 HP
+- Scratch
+|Staryu
+Level: 100
+IVs: 30 HP
+- Tackle
+|Rattata
+Level: 100
+IVs: 30 HP
+- Tackle
+- Tail Whip
+|Raichu
+Level: 100
+IVs: 30 HP
+- Thunderbolt
+- Body Slam
+- Tail Whip
+- Mega Kick
+|Raticate
+Level: 100
+IVs: 30 HP
+- Jump Kick
+- Super Fang
+- Hyper Fang
+|Squirtle
+Level: 100
+IVs: 30 HP
+- Tackle
+- Tail Whip
+|Mewtwo
+Level: 100
+IVs: 30 HP
+- Psychic
+- Hyper Beam
+- Recover
+- Swift
+|Persian
+Level: 100
+IVs: 30 HP
+- Scratch
+- Growl
+- Bite
+- Screech
+|Golem
+Level: 100
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Kingler
+Level: 100
+IVs: 30 HP
+- Crabhammer
+- Harden
+- Bubble
+|Machamp
+Level: 100
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Rhydon
+Level: 100
+IVs: 30 HP
+- Horn Attack
+|Kadabra
+Level: 100
+IVs: 30 HP
+- Psychic
+- Confusion
+- Psybeam
+- Recover
+|Haunter
+Level: 100
+IVs: 30 HP
+- Lick
+|Tangela
+Level: 100
+IVs: 30 HP
+- Constrict
+- Stun Spore
+|Weepinbell
+Level: 100
+IVs: 30 HP
+- Razor Leaf
+- Growth
+- Wrap
+|Gloom
+Level: 100
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+|Vileplume
+Level: 100
+IVs: 30 HP
+- Stun Spore
+- Sleep Powder
+- Acid
+- Petal Dance
+|Victreebel
+Level: 100
+IVs: 30 HP
+- Sleep Powder
+- Stun Spore
+- Acid
+- Razor Leaf
+|Exeggcute
+Level: 100
+IVs: 30 HP
+- Barrage
+- Hypnosis
+|Hitmonchan
+Level: 100
+IVs: 30 HP
+- Agility
+- Comet Punch
+|Hitmonlee
+Level: 100
+IVs: 30 HP
+- Jump Kick
+- High Jump Kick
+|Venomoth
+Level: 100
+IVs: 30 HP
+- Stun Spore
+- Sleep Powder
+- Leech Life
+- Poison Powder
+|Golbat
+Level: 100
+IVs: 30 HP
+- Wing Attack
+- Screech
+- Leech Life
+- Bite
+|Scyther
+Level: 100
+IVs: 30 HP
+- Quick Attack
+|Voltorb
+Level: 100
+IVs: 30 HP
+- Self-Destruct
+|Venonat
+Level: 100
+IVs: 30 HP
+- Stun Spore
+- Psybeam
+- Poison Sting
+- Rest
+|Growlithe
+Level: 100
+IVs: 30 HP
+- Flamethrower
+|Rapidash
+Level: 100
+IVs: 30 HP
+- Stomp
+- Ember
+|Tauros
+Level: 100
+IVs: 30 HP
+- Tackle
+|Sandslash
+Level: 100
+IVs: 30 HP
+- Scratch
+- Sand Attack
+|Nidorino
+Level: 100
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+|Dodrio
+Level: 100
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Kangaskhan
+Level: 100
+IVs: 30 HP
+- Dizzy Punch
+|Dragonair
+Level: 100
+IVs: 30 HP
+- Wrap
+- Leer
+- Thunder Wave
+|Golem
+Level: 100
+IVs: 30 HP
+- Defense Curl
+- Tackle
+- Rock Throw
+|Cloyster
+Level: 100
+IVs: 30 HP
+- Clamp
+|Ditto
+Level: 100
+IVs: 30 HP
+- Transform
+|Porygon
+Level: 100
+IVs: 30 HP
+- Tackle
+|Porygon
+Level: 100
+IVs: 30 HP
+- Tackle
+- Conversion
+|Lapras
+Level: 100
+IVs: 30 HP
+- Ice Beam
+|Ponyta
+Level: 100
+IVs: 30 HP
+- Ember
+|Jynx
+Level: 100
+IVs: 30 HP
+- Psywave
+|Jynx
+Level: 100
+IVs: 30 HP
+- Psywave
+- Lovely Kiss
+|Eevee
+Level: 100
+IVs: 30 HP
+- Tackle
+- Take Down
+|Jolteon
+Level: 100
+IVs: 30 HP
+- Pin Missile
+|Vaporeon
+Level: 100
+IVs: 30 HP
+- Acid Armor
+- Tackle
+|Flareon
+Level: 100
+IVs: 30 HP
+- Fire Spin
+|Snorlax
+Level: 100
+IVs: 30 HP
+- Headbutt
+- Amnesia
+- Rest
+|Scyther
+Level: 100
+IVs: 30 HP
+- Swords Dance
+- Cut
+|Electabuzz
+Level: 100
+IVs: 30 HP
+- Thunderbolt
+- Thunder Punch
+|Exeggutor
+Level: 100
+IVs: 30 HP
+- Hypnosis
+- Stomp
+|Parasect
+Level: 100
+IVs: 30 HP
+- Stun Spore
+- Spore
+- Leech Life
+|Persian
+Level: 100
+IVs: 30 HP
+- Scratch
+- Growl
+- Bite
+- Screech
+|Chansey
+Level: 100
+IVs: 30 HP
+- Pound
+- Double Slap
+|Vileplume
+Level: 100
+IVs: 30 HP
+- Stun Spore
+- Solar Beam
+|Farfetch’d
+Level: 100
+IVs: 30 HP
+- Fury Attack
+- Agility
+|Rhyhorn
+Level: 100
+IVs: 30 HP
+- Take Down
+|Primeape
+Level: 100
+IVs: 30 HP
+- Scratch
+- Leer
+- Karate Chop
+- Fury Swipes
+|Meowth
+Level: 100
+IVs: 30 HP
+- Fury Swipes
+|Charizard
+Level: 100
+IVs: 30 HP
+- Flamethrower
+|Weezing
+Level: 100
+IVs: 30 HP
+- Smog
+- Smokescreen
+- Tackle
+- Explosion
+|Jolteon
+Level: 100
+IVs: 30 HP
+- Agility
+- Thunder
+|Vaporeon
+Level: 100
+IVs: 30 HP
+- Ice Beam
+|Ivysaur
+Level: 100
+IVs: 30 HP
+- Vine Whip
+|Flareon
+Level: 100
+IVs: 30 HP
+- Flamethrower
+- Leer
+|Raticate
+Level: 100
+IVs: 30 HP
+- Tackle
+- Super Fang
+- Skull Bash
+|Ninetales
+Level: 100
+IVs: 30 HP
+- Fire Spin
+|Rhydon
+Level: 100
+IVs: 30 HP
+- Horn Drill
+- Fury Attack
+|Magmar
+Level: 100
+IVs: 30 HP
+- Fire Punch
+- Fire Blast
+- Flamethrower
+- Skull Bash
+|Mr. Mime
+Level: 100
+IVs: 30 HP
+- Barrier
+|Rapidash
+Level: 100
+IVs: 30 HP
+- Ember
+- Tail Whip
+- Stomp
+- Growl
+|Machoke
+Level: 100
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Exeggcute
+Level: 100
+IVs: 30 HP
+- Barrage
+- Hypnosis
+|Tangela
+Level: 100
+IVs: 30 HP
+- Constrict
+- Bind
+|Dodrio
+Level: 100
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Slowbro
+Level: 100
+IVs: 30 HP
+- Amnesia
+- Mega Punch
+|Shellder
+Level: 100
+IVs: 30 HP
+- Ice Beam
+- Clamp
+|Pikachu
+Level: 100
+IVs: 30 HP
+- Surf
+|Gloom
+Level: 100
+IVs: 30 HP
+- Double Team
+- Solar Beam
+|Raichu
+Level: 100
+IVs: 30 HP
+- Thunderbolt
+- Mega Kick
+- Thunder
+|Hitmonchan
+Level: 100
+IVs: 30 HP
+- Thunder Punch
+- Comet Punch
+|Onix
+Level: 100
+IVs: 30 HP
+- Dig
+- Tackle
+|Marowak
+Level: 100
+IVs: 30 HP
+- Focus Energy
+- Bone Club
+- Bonemerang
+|Doduo
+Level: 100
+IVs: 30 HP
+- Peck
+|Exeggutor
+Level: 100
+IVs: 30 HP
+- Psywave
+- Psychic
+- Egg Bomb
+- Hypnosis
+|Seadra
+Level: 100
+IVs: 30 HP
+- Agility
+- Bubble
+- Smokescreen
+|Golbat
+Level: 100
+IVs: 30 HP
+- Take Down
+- Double Team
+- Razor Wind
+- Mega Drain
+|Pidgey
+Level: 100
+IVs: 30 HP
+- Gust
+|Cloyster
+Level: 100
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Arcanine
+Level: 100
+IVs: 30 HP
+- Dragon Rage
+- Fire Blast
+|Beedrill
+Level: 100
+IVs: 30 HP
+- Tackle
+- Twineedle
+- Poison Sting
+|Scyther
+Level: 100
+IVs: 30 HP
+- Slash
+- Swift
+- Double Team
+|Bellsprout
+Level: 100
+IVs: 30 HP
+- Slam
+- Razor Leaf
+|Golem
+Level: 100
+IVs: 30 HP
+- Seismic Toss
+|Pikachu
+Level: 100
+IVs: 30 HP
+- Agility
+- Thunderbolt
+- Thunder Shock
+|Charmander
+Level: 100
+IVs: 30 HP
+- Slash
+- Flamethrower
+- Tackle
+|Butterfree
+Level: 100
+IVs: 30 HP
+- Sleep Powder
+- Whirlwind
+- Leech Life
+|Spearow
+Level: 100
+IVs: 30 HP
+- Peck
+- Growl
+|Tentacool
+Level: 100
+IVs: 30 HP
+- Bubble
+|Rhydon
+Level: 100
+IVs: 30 HP
+- Horn Attack
+|Venomoth
+Level: 100
+IVs: 30 HP
+- Whirlwind
+- Leech Life
+|Ivysaur
+Level: 100
+IVs: 30 HP
+- Tackle
+- Vine Whip
+- Solar Beam
+|Goldeen
+Level: 100
+IVs: 30 HP
+- Peck
+- Tail Whip
+|Raticate
+Level: 100
+IVs: 30 HP
+- Tackle
+- Super Fang
+- Skull Bash

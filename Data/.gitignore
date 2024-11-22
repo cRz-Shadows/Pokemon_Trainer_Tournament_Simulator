@@ -10,6 +10,7 @@ battle_matrix_plot.png
 battle_matrix.csv
 trainer_stats.csv
 output.txt
+ErrorOutputs.txt
 Inputs/tournament_battles.json
 Inputs/PokemonBuilds.txt
 Inputs/PokemonVsLeaderTeams.json

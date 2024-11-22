@@ -5,8 +5,19 @@ import subprocess
 import threading
 from concurrent.futures import ThreadPoolExecutor
 import time
+import random
 from timeit import default_timer as timer
-from tqdm import tqdm
+from tqdm import tqdm, trange
+
+# ANSI color codes for styling
+COLORS = {
+    "blue": "\033[94m",
+    "green": "\033[92m",
+    "yellow": "\033[93m",
+    "red": "\033[91m",
+    "white": "\033[97m",
+    "reset": "\033[0m"
+}
 
 def write_builds_to_file(lines, build_indices, file_path, setLevel):
     with open(file_path, "w") as f:
@@ -45,6 +56,7 @@ def runSimulation(matchup, threadNo, filename, teamNumbers, setLevel):
         write_builds_to_file(lines, matchup[0], f"./WorkerFiles/{threadNo}1.txt", setLevel)
         # Process the second group of builds
         write_builds_to_file(lines, matchup[1], f"./WorkerFiles/{threadNo}2.txt", setLevel)
+        RetryCount = 0
         while True:
             #mycommand = "cd ../pokemon-showdown && node build && node ./dist/sim/examples/battle-stream-example"
             mycommand = "cd ../pokemon-showdown && node ./dist/sim/examples/Simulation-test-1 " + threadNo + " " + str(team1No) + " " + str(team2No)
@@ -54,10 +66,66 @@ def runSimulation(matchup, threadNo, filename, teamNumbers, setLevel):
                 try:
                     if not (result[:40].split("\n")[2].startswith("TypeError")):
                         break
+                    else:
+                        if RetryCount > 9:
+                            print("Error occurred with battle 10 times, skipping " + game)
+                            RetryCount = 0
+                            with open ("./ErrorOutputs.txt", "a") as o: 
+                                o.write(result + "\n]]]]]\n")
+                            break
+                        RetryCount += 1
                 except:
+                    print("Unexpected error occurred with battle, skipping " + game)
+                    RetryCount = 0
+                    with open ("./ErrorOutputs.txt", "a") as o: 
+                        o.write(result + "\n]]]]]\n")
                     break
+            else:
+                if RetryCount > 9:
+                    print("node:internal error, TypeError or runtime error occurred with battle, skipping " + game)
+                    RetryCount = 0
+                    with open ("./ErrorOutputs.txt", "a") as o: 
+                        o.write(result + "\n]]]]]\n")
+                    break
+                RetryCount += 1
         with open ("./WorkerOutputs/" + threadNo + ".txt", "a") as o: 
             o.write(result + "\n]]]]]\n")
+
+
+
+        try:
+            # Extract the "vs" line
+            vs_line = next((line for line in result.splitlines() if " vs " in line), "Unknown vs Match")
+            trainer_1, trainer_2 = vs_line.split(" vs ")
+            vs_line_colored = (
+                f"{COLORS['red']}{trainer_1}{COLORS['reset']} "
+                f"{COLORS['white']}vs{COLORS['reset']} "
+                f"{COLORS['blue']}{trainer_2}{COLORS['reset']}"
+            )
+            
+            # Extract the names of the trainers from the "vs" line
+            trainer_1, trainer_2 = vs_line.split(" vs ")
+            
+            # Determine the victor from the result
+            win_line = next((line for line in result.splitlines() if "|win|" in line), "")
+            if "|win|Bot 1" in win_line:
+                victor = trainer_1
+            elif "|win|Bot 2" in win_line:
+                victor = trainer_2
+            else:
+                victor = "Unknown"
+
+            # Uncomment if you want to display each individual fight result as it runs
+                # Note: may slow down total time to run sims
+            # tqdm.write(
+            #     f"{COLORS['yellow']}Finished Running Simulation{COLORS['reset']} "
+            #     f"{vs_line_colored} | "
+            #     f"Victor: "
+            #     f"{COLORS['green']}{victor}{COLORS['reset']}"
+            # )
+        
+        except Exception as e:
+            pass
         return(result)
     
 def get_keys_from_value(d, val):
@@ -65,10 +133,13 @@ def get_keys_from_value(d, val):
 
 filename = "Inputs/" + "GymLeaderPokemon.txt"
 noOfThreads = 1 # change this to fit your CPU
+RandomiseTeams = False # randomise order of simulations
 
 #read in teams
 with open('Inputs/tournament_battles.json', 'r') as infile:
     teams = json.load(infile)
+if RandomiseTeams:
+    random.shuffle(teams)
 
 with open('Inputs/GymLeaderTeams.json', 'r') as infile:
     teamNumbers = json.load(infile)
@@ -82,6 +153,8 @@ n = len(teams)
 noOfTeams = len(teamNumbers)
 
 with open ("./output.txt", "a") as o: 
+    o.truncate(0)
+with open ("./ErrorOutputs.txt", "a") as o: 
     o.truncate(0)
 
 # combine the individual worker outputs into one
@@ -145,23 +218,32 @@ def submit_simulation(executor, team):
                 else:
                     formatted_time = f"{seconds} second(s)"
 
-                print(len(teams), "Simulations Left | Estimated Remaining Time:", formatted_time, "| Time Elapsed:", round(current_runtime))
-
     # Submit the task
     future = executor.submit(runSimulation, team, thread_name, filename, teamNumbers, setLevel)
-    # runSimulation, team, thread_name, trainer_lines, pokemon_lines, teamNumbers, leader_teamNumbers, setLevel
     # Attach the callback to the future
     future.add_done_callback(release_thread_name)
 
-print(len(teams))
+# Initialize progress bar
+total_teams = len(teams)
+desc = f"{COLORS['yellow']}Processing Teams{COLORS['reset']}"
+bar_format = (
+    "{desc}: "  # Description with color
+    f"{COLORS['green']}{{n_fmt}}/{COLORS['blue']}{{total_fmt}}{COLORS['reset']} "  # Current iteration and total in color
+    "{percentage:3.0f}%|{bar}| "  # Percentage and bar
+    f"{COLORS['green']}Elapsed: {{elapsed}}{COLORS['reset']} "  # Elapsed time in color
+    f"{COLORS['blue']}Remaining: {{remaining}}{COLORS['reset']}"  # Remaining time in color
+)
+progress_bar = trange(total_teams, desc=desc, dynamic_ncols=True, leave=True, mininterval=0.5, bar_format=bar_format, position=2)
+
 with ThreadPoolExecutor(max_workers=noOfThreads) as executor:
     while teams:
         with lock2:
             if teams:
                 team = teams.pop(0)
-                # print("assigning teams", len(teams))
-            submit_simulation(executor, team)
+                submit_simulation(executor, team)
+                progress_bar.update(1)  # Update progress bar each time a team is processed
 
+progress_bar.close()  # Close progress bar when done
 print(len(teams))  # Keeping track of remaining teams
 end = time.time()
 
